@@ -3,3 +3,10 @@ description: Portfolio
 baseurl: "" # laisser vide pour GitHub Pages
 url: "https://emma-dcs.github.io"
 theme: minima
+
+header_pages:
+  - about.md
+  - competence.md
+  - service.md
+  - projects.md
+  - contact.md
