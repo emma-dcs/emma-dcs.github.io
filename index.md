@@ -3,8 +3,6 @@ layout: default
 title: Accueil
 ---
 
-# Portfolio
-
 Ingénieure Agroalimentaire & Data Scientist
 
 J'aide les équipes R&D, Qualité et Marketing à transformer les données sensorielles, verbatims et process en informations stratégiques.
