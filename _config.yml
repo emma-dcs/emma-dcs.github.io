@@ -1,0 +1,5 @@
+title: Portfolio
+description: Portfolio
+baseurl: "" # laisser vide pour GitHub Pages
+url: "https://emma-dcs.github.io"
+theme: minima
