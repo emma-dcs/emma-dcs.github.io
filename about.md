@@ -3,7 +3,6 @@ layout: page
 title: À propos
 ---
 
-# À propos
 
 Double diplomée :
 - Ingénieure Agroalimentaire spécialité Science des données à l'Institut Agro de Rennes

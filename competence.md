@@ -4,8 +4,6 @@ title: Compétences
 ---
 
 
-# Compétences
-
 ## **Hard skills**
 ### **- Langages et Outils:**
 ● R : Shiny, Markdown, tidyverse, caret, FactoMineR  
@@ -51,5 +49,5 @@ title: Compétences
 
 # Mon CV
 <div id="cv"></div>
-![CV_Emma_ing_data](assets/images/CV_Emma_ing_data.pdf)
+![CV_Emma_ing_data](assets/images/CV_Emma_ing_data.png)
 

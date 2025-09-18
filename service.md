@@ -4,8 +4,6 @@ title: Services proposés
 ---
 
 
-# Services proposés
-
 ## A - Automatisation de reporting
 Automatiser vos rapports récurrents (Excel, PDF, Word)
 
