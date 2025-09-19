@@ -34,7 +34,9 @@ title: Compétences
 ● Gestion et modélisation de bases relationnelles : MySQL, PostgreSQL, Access  
 ● Bonnes pratiques en structuration et documentation des données  
 
-
+  
+  
+  
 ## **Soft skills**
 ● Gestion de projet agile : planification, priorisation, suivi d'avancement  
 ● Collaboration interdisciplinaire : travail en équipe avec data engineers, développeurs, métiers, UX/UI designers  
@@ -42,9 +44,12 @@ title: Compétences
 ● Communication des résultats : vulgarisation des analyses, storytelling , présentation aux parties prenantes non techniques  
 ● Esprit critique et résolution de problèmes : capacité à formuler des hypothèses, tester et proposer des solutions data-driven  
 ● Autonomie et curiosité : veille technologique/bibliographique, apprentissage continu, expérimentation de nouveaux outils  
+  
 
+  
 
 ---
+  
 
 
 # Mon CV
