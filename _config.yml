@@ -10,9 +10,3 @@ github: "https://github.com/emma-dcs"
 linkedin: "https://www.linkedin.com/in/emma-d-352a37211"
 footer_text: ""
 
-header_pages:
-  - about.md
-  - competence.md
-  - service.md
-  - projects.md
-  - contact.md
