@@ -97,7 +97,7 @@ main {
 .site-footer a {
   color: white; /* liens en blanc */
   text-decoration: none;
-  margin: 0 10px;
+  margin: 0 20px;
 }
 
 .site-footer a:hover {
@@ -116,4 +116,8 @@ main {
   text-align: center;
   margin: 30px 0 20px;
   font-family: 'Merriweather', serif;
+}
+
+#site_header {
+  padding: 40px 0 20px 0;  /* espace */
 }
