@@ -57,3 +57,27 @@ main {
   padding: 20px;
 }
 
+
+/* Menu horizontal */
+.topnav ul {
+  list-style: none;       /* enlève les puces */
+  margin: 0;
+  padding: 0;
+  text-align: center;     /* centre le menu */
+}
+
+.topnav li {
+  display: inline-block;  /* aligne les <li> côte à côte */
+  margin: 0 15px;         /* espace entre les liens */
+}
+
+.topnav a {
+  color: white;           /* couleur des liens */
+  text-decoration: none;  /* enlève le soulignement */
+  font-weight: bold;
+}
+
+.topnav a:hover {
+  color: #d3e0c6;         /* couleur au survol */
+}
+
