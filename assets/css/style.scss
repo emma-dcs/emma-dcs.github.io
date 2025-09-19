@@ -9,7 +9,7 @@ body, p, li {
 
 /* 🔹 Couleurs personnalisées */
 body {
-  background-color: #FDFCF8 ;   /* beige clair */
+  background-color: #fcc900 ;   /* beige clair */
   color: #464941;                 /* texte */
 }
 
@@ -37,4 +37,9 @@ a:hover {
 }
 .button:hover {
   background-color: #7bae7fd9;
+}
+
+/* Centrer le titre et la description */
+header {
+  text-align: center;
 }
