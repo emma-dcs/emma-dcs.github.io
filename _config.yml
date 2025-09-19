@@ -1,6 +1,6 @@
 lang: fr-FR
-title: Portfolio
-description: Ingénieure Agroalimentaire <br>&<br> Data Scientist
+title: <br><br>PORTFOLIO<br><br>
+description: Ingénieure Agroalimentaire <br>&<br> Data Scientist<br><br>
 baseurl: "" # laisser vide pour GitHub Pages
 url: "https://emma-dcs.github.io"
 remote_theme: pages-themes/slate@v0.2.0
