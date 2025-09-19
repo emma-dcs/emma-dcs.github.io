@@ -57,6 +57,12 @@ main {
   padding: 20px;
 }
 
+.main-content {
+  max-width: 900px;       /* largeur maximale du contenu */
+  margin: 0 auto;         /* centre horizontalement le bloc */
+  padding: 20px;          /* espace interne */
+  text-align: left;       /* texte aligné à gauche */
+}
 
 /* Menu horizontal */
 .topnav ul {
@@ -105,8 +111,8 @@ main {
 }
 
 .footer-icon {
-  width: 1px;   /* taille de l’icône */
-  height: 1px;
+  width: 4px;   /* taille de l’icône */
+  height: 4px;
   vertical-align: middle;
   margin-right: 5px;
   background: none;
@@ -123,7 +129,7 @@ main {
 }
 
 #cv img {
-  max-width: 100%;   /* ne pas dépasser la largeur du conteneur */
+  max-width: 25%;   /* ne pas dépasser la largeur du conteneur */
   height: auto;      /* garde les proportions */
   display: block;
   margin: 0 auto;    /* centre l’image */
