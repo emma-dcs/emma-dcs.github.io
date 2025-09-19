@@ -13,7 +13,7 @@ body, p, li {
 
 /* 🔹 Couleurs personnalisées */
 body {
-  background-color: #ffeda5 ;   /* beige clair */
+  background-color: #FDFCF8 ;   /* beige clair */
   color: #464941;                 /* texte */
 }
 
@@ -47,9 +47,12 @@ a:hover {
 header {
   text-align: center;
 }
+footer {
+  text-align: center;
+}
 
 /* Décaler le contenu principal à droite */
 main {
-  margin-left: 220px;  /* >= largeur sidebar */
+  margin-left: 200px;  /* >= largeur sidebar */
   padding: 20px;
 }
