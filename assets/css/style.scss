@@ -48,38 +48,6 @@ header {
   text-align: center;
 }
 
-
-/* Menu déroulant à gauche */
-.sidebar {
-  position: fixed;      /* menu toujours visible */
-  top: 0;
-  left: 0;
-  width: 200px;
-  height: 100%;
-  background-color: #7BAE7F;  /* couleur de ton choix */
-  padding: 20px;
-}
-
-.sidebar ul {
-  list-style: none;  /* enlève les puces */
-  padding: 0;
-  margin: 0;
-}
-
-.sidebar li {
-  margin-bottom: 15px;
-}
-
-.sidebar a {
-  color: white;
-  text-decoration: none;
-  font-weight: bold;
-}
-
-.sidebar a:hover {
-  color: #7bae7fd9;  /* couleur au survol */
-}
-
 /* Décaler le contenu principal à droite */
 main {
   margin-left: 220px;  /* >= largeur sidebar */

@@ -1,5 +1,8 @@
+lang: fr-FR
 title: Portfolio
-description: Ingénieure Agroalimentaire & Data Scientist
+description: Ingénieure Agroalimentaire 
+ &  
+ Data Scientist
 baseurl: "" # laisser vide pour GitHub Pages
 url: "https://emma-dcs.github.io"
 remote_theme: pages-themes/slate@v0.2.0
@@ -9,4 +12,9 @@ email: "emma.dacslv@gmail.com"
 github: "https://github.com/emma-dcs"
 linkedin: "https://www.linkedin.com/in/emma-d-352a37211"
 footer_text: ""
-
+header_pages:
+  - about.md
+  - competence.md
+  - service.md
+  - projects.md
+  - contact.md
