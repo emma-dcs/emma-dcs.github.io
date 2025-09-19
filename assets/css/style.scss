@@ -59,25 +59,50 @@ main {
 
 
 /* Menu horizontal */
-.topnav ul {
+topnav ul {
   list-style: none;       /* enlève les puces */
   margin: 0;
   padding: 0;
   text-align: center;     /* centre le menu */
 }
 
-.topnav li {
+topnav li {
   display: inline-block;  /* aligne les <li> côte à côte */
   margin: 0 15px;         /* espace entre les liens */
 }
 
-.topnav a {
+topnav a {
   color: white;           /* couleur des liens */
   text-decoration: none;  /* enlève le soulignement */
   font-weight: bold;
 }
 
-.topnav a:hover {
+topnav a:hover {
   color: #d3e0c6;         /* couleur au survol */
 }
 
+/* Footer personnalisé */
+footer {
+  background-color: #5a7a4f; 
+  color: white;
+  text-align: center;
+  padding: 20px 0;   /* augmente l’épaisseur */
+  margin-top: 40px;
+}
+
+footer a {
+  color: white; /* liens en blanc */
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+footer-icon {
+  width: 20px;   /* taille de l’icône */
+  height: 20px;
+  vertical-align: middle;
+  margin-right: 5px;
+}
