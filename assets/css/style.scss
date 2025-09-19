@@ -56,3 +56,31 @@ main {
   margin-left: 200px;  /* >= largeur sidebar */
   padding: 20px;
 }
+
+#site_header {
+  text-align: center;
+  padding: 30px 0;
+  background-color: #5a7a4f;
+  color: white;
+}
+
+.topnav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.topnav li {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+.topnav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.topnav a:hover {
+  color: #d3e0c6;
+}
