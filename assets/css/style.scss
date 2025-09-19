@@ -105,8 +105,8 @@ main {
 }
 
 .footer-icon {
-  width: 5px;   /* taille de l’icône */
-  height: 5px;
+  width: 1px;   /* taille de l’icône */
+  height: 1px;
   vertical-align: middle;
   margin-right: 5px;
   background: none;
@@ -120,4 +120,11 @@ main {
 
 #site_header {
   padding: 40px 0 20px 0;  /* espace */
+}
+
+#cv img {
+  max-width: 100%;   /* ne pas dépasser la largeur du conteneur */
+  height: auto;      /* garde les proportions */
+  display: block;
+  margin: 0 auto;    /* centre l’image */
 }
