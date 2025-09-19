@@ -51,6 +51,11 @@ footer {
   text-align: center;
 }
 
+body {
+  margin: 0;
+  padding: 0;
+}
+
 /* Décaler le contenu principal  */
 main {
   margin-left: 20px;  /* >= largeur sidebar */
@@ -62,6 +67,7 @@ main {
   margin: 0 auto;         /* centre horizontalement le bloc */
   padding: 20px;          /* espace interne */
   text-align: left;       /* texte aligné à gauche */
+  box-sizing: border-box; /* inclut padding dans la largeur */
 }
 
 /* Menu horizontal */
@@ -111,8 +117,8 @@ main {
 }
 
 .footer-icon {
-  width: 4px;   /* taille de l’icône */
-  height: 4px;
+  width: 8px;   /* taille de l’icône */
+  height: 8px;
   vertical-align: middle;
   margin-right: 5px;
   background: none;
@@ -128,8 +134,9 @@ main {
   padding: 40px 0 20px 0;  /* espace */
 }
 
-#cv img {
+#cv {
   max-width: 25%;   /* ne pas dépasser la largeur du conteneur */
+  max-width: 900px;  /* limite maximale pour ne pas qu’elle devienne trop grande */
   height: auto;      /* garde les proportions */
   display: block;
   margin: 0 auto;    /* centre l’image */
