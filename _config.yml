@@ -2,7 +2,11 @@ title: Portfolio
 description: Portfolio
 baseurl: "" # laisser vide pour GitHub Pages
 url: "https://emma-dcs.github.io"
-theme: minima
+theme: slate
+email: "emma.dacslv@gmail.com"
+github: "https://github.com/emma-dcs"
+linkedin: "https://www.linkedin.com/in/emma-d-352a37211"
+footer_text: ""
 
 header_pages:
   - about.md
@@ -10,3 +14,5 @@ header_pages:
   - service.md
   - projects.md
   - contact.md
+
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Inter:wght@400;500&display=swap" rel="stylesheet">

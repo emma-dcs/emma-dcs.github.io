@@ -1,0 +1,43 @@
+---
+---
+
+/* 🔹 Polices */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Merriweather', serif;
+}
+
+body, p, li {
+  font-family: 'Inter', sans-serif;
+}
+
+/* 🔹 Couleurs personnalisées */
+body {
+  background-color: #FDFCF8 ;   /* beige clair */
+  color: #464941;                 /* texte */
+}
+
+header, footer {
+  background-color: #5a7a4f;   /* bandeau bleu foncé */
+  color: white;
+}
+
+a {
+  color: #0077cc;
+}
+a:hover {
+  color: #005fa3;
+}
+
+/* 🔹 Boutons type Cayman */
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: #7BAE7F;   /* vert */
+  color: white !important;
+  text-decoration: none;
+  font-weight: bold;
+}
+.button:hover {
+  background-color: #7bae7fd9;
+}
