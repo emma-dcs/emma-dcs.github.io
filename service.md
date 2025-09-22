@@ -7,8 +7,10 @@ title: 🌟 Services proposés
 > “J’aide les équipes R&D, Qualité et Marketing à transformer leurs données en leviers d’action concrets : gagner du temps, mieux comprendre les clients et innover plus rapidement. Spécialisée en agroalimentaire, je conçois des solutions adaptées aux réalités du terrain.”
 > 
   
+<br><br>
   
-# ⚙️
+<h1 style="text-align: center;">⚙️</h1>
+
 ## A - Libérez du temps grâce à l'automatisation de vos rapports
 Automatisez vos rapports récurrents (Excel, PDF, Word) pour gagner en fiabilité et en rapidité  
 
@@ -18,10 +20,11 @@ Automatisez vos rapports récurrents (Excel, PDF, Word) pour gagner en fiabilit�
 - Interface simple pour vos équipes  
 
 📈 **Bénéfices :** Gain de temps, fiabilité accrue, réduction des erreurs manuelles  
+
+<br><br><br>
   
-  
-  
-# 🗨️
+<h1 style="text-align: center;">🗨️</h1>
+
 ## B - Faites parler vos clients grâce à l'analyse de verbatims
 Transformez les milliers de retours consommateurs en informations stratégiques exploitables (enquêtes, avis en ligne, tests de produit...)
 
@@ -32,9 +35,10 @@ Transformez les milliers de retours consommateurs en informations stratégiques 
 
 📈 **Bénéfices :** Compréhension fine des attentes clients et prise de décision éclairée  
   
+<br><br><br>
   
-  
-# 📊
+<h1 style="text-align: center;">📊</h1>
+
 ## C - Pilotez vos projets avec des dashboards interactifs
 Suivez vos KPI en temps réel avec des tableaux de bord sur-mesure  
 
@@ -45,9 +49,10 @@ Suivez vos KPI en temps réel avec des tableaux de bord sur-mesure
 
 📈 **Bénéfices :** Décisions plus rapides, pilotage basé sur les données, visibilité complète  
   
+<br><br><br>
   
-  
-# 🎯
+<h1 style="text-align: center;">🎯</h1>
+
 ## D - Offrez-vous une assistance intelligente grâce aux Chatbot et à l'IA générative
 Intégrez des modèles type GPT pour automatiser le traitement des verbatims, la recherche documentaire...  
 

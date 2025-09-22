@@ -135,8 +135,8 @@ main {
 }
 
 #cv {
-  max-width: 25%;   /* ne pas dépasser la largeur du conteneur */
   max-width: 450px;  /* limite maximale pour ne pas qu’elle devienne trop grande */
+  width: 25%;        /* réduit la taille à 25% du conteneur */
   height: auto;      /* garde les proportions */
   display: block;
   margin: 0 auto;    /* centre l’image */

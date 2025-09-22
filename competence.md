@@ -4,7 +4,8 @@ title: Compétences
 ---
 
 
-## **Hard skills**
+<h2 style="text-align: center;">Hard skills</h2>
+
 ### **- Langages et Outils:**
 ● R : Shiny, Markdown, tidyverse, caret, FactoMineR  
 ● Python : pandas, scikit-learn, transformers, NumPy, spaCy, PyTorch, TensorFlow  
@@ -37,7 +38,7 @@ title: Compétences
   
   
   
-## **Soft skills**
+<h2 style="text-align: center;">Soft skills</h2>
 ● Gestion de projet agile : planification, priorisation, suivi d'avancement  
 ● Collaboration interdisciplinaire : travail en équipe avec data engineers, développeurs, métiers, UX/UI designers  
 ● Recueil et analyse des besoins utilisateurs : compréhension métier, traduction en solutions data  
@@ -46,11 +47,11 @@ title: Compétences
 ● Autonomie et curiosité : veille technologique/bibliographique, apprentissage continu, expérimentation de nouveaux outils  
   
 
-  
+  <br><br>
 
 ---
   
-
+<br><br>
 
 # Mon CV
 <div id="cv"></div>
