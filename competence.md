@@ -36,7 +36,7 @@ title: Compétences
 ● Bonnes pratiques en structuration et documentation des données  
 
   
- <br> 
+<br><br>
   
 <h2 style="text-align: center;">Soft skills</h2>
 ● Gestion de projet agile : planification, priorisation, suivi d'avancement  
