@@ -3,13 +3,11 @@ layout: default
 title: À propos
 ---
 
-Double diplomée
+Mon parcours a commencé les bottes aux pieds, dans une exploitation agricole d’élevage de poules biologiques. J’y ai découvert l’envers du décor de notre alimentation : les cycles naturels, les contraintes du quotidien et l’importance de la qualité dès la première étape.
 
-| Ingénieure Agroalimentaire<br>Spécialité Science des données<br>Institut Agro Rennes |  | Master 2 Mathématiques appliquées, statistique<br>Parcours Data Science<br>Université de Rennes |
-| <img src="assets/images/logo_agro.png" alt="Institut Agro Rennes" width="150"> |  | <img src="assets/images/logo_univ_rennes.png" alt="Université de Rennes" width="150"> |
+Puis, en laiterie chez EURIAL et au Portugal chez Du Bois de la Roche, j’ai plongé dans le monde de la qualité et de la sécurité alimentaire. Audits, réclamations clients, flux de circulation, évaluation de fournisseurs… j’ai vite réalisé que les ingénieurs qualité manipulent une montagne de données. Des données précieuses, mais trop souvent limitées à un usage immédiat, jamais réutilées pour anticiper ou optimiser.
 
-Je propose des missions en freelance centrées sur :  
-- l'analyse de données,  
-- le prototypage d'applications interactives,  
-- la création de graphiques de visualisation des données,  
-- l'intégration de l'Intelligence Artificielle pour l'analyse de données textuelles.
+C’est cette frustration qui m’a menée vers la data science. Chez Mérieux NutriSciences, j’ai pu transformer cette intuition en action : développement d’une application R Shiny qui automatise en quelques minutes des rapports qui manuellement prenaient plusieurs jours, exploration des modèles de langage, de l'Intelligence Artificielle pour analyser des milliers de verbatims consommateurs, mise en place d’outils concrets pour aider les équipes marketing, R&D et qualité à décider plus vite.
+
+Aujourd’hui, je combine mes deux mondes — la passion pour les produits alimentaires et la maîtrise des données — pour transformer des tableaux Excel, des verbatims ou des indicateurs qualité en supports lisibles qui guident les décisions. Car je suis convaincue que dans l’agroalimentaire, la donnée est un ingrédient aussi essentiel que le lait ou le cacao.
+

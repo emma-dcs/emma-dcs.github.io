@@ -1,47 +1,60 @@
 ---
 layout: default
-title: Services proposés
+title: 🌟 Services proposés
 ---
+  
 
+> “J’aide les équipes R&D, Qualité et Marketing à transformer leurs données en leviers d’action concrets : gagner du temps, mieux comprendre les clients et innover plus rapidement. Spécialisée en agroalimentaire, je conçois des solutions adaptées aux réalités du terrain.”
+> 
+  
+  
+# ⚙️
+## A - Libérez du temps grâce à l'automatisation de vos rapports
+Automatisez vos rapports récurrents (Excel, PDF, Word) pour gagner en fiabilité et en rapidité  
 
-## A - Automatisation de reporting
-Automatiser vos rapports récurrents (Excel, PDF, Word)
+**Livrables :**  
+- Rapports automatisés adaptés à vos besoins : qualité, production, enquêtes consommateurs...  
+- Mise à jour automatique des tableaux et graphiques  
+- Interface simple pour vos équipes  
 
-Livrables :  
-Fichiers automatisés  
-Rapports mis à jour automatiquement  
+📈 **Bénéfices :** Gain de temps, fiabilité accrue, réduction des erreurs manuelles  
+  
+  
+  
+# 🗨️
+## B - Faites parler vos clients grâce à l'analyse de verbatims
+Transformez les milliers de retours consommateurs en informations stratégiques exploitables (enquêtes, avis en ligne, tests de produit...)
 
-📈 Gain de temps, fiabilité des analyses, réduction des erreurs manuelles
+**Livrables :**  
+- Synthèse des thèmes récurrents et des signaux faibles  
+- Détection des sentiments et tendances clés  
+- Clustering sémantique et visualisation interactive  
 
+📈 **Bénéfices :** Compréhension fine des attentes clients et prise de décision éclairée  
+  
+  
+  
+# 📊
+## C - Pilotez vos projets avec des dashboards interactifs
+Suivez vos KPI en temps réel avec des tableaux de bord sur-mesure  
 
-## B - Analyse des avis clients
-Traitement automatique de verbatims (enquêtes, avis en ligne,..)
+**Livrables :**  
+- Dashboards personnalisés connectés à vos bases de données (fichiers Excel)  
+- Suivi interactif des indicateurs Qualité, R&D ou Marketing  
+- Interface intuitive pour vos équipes métier  
 
-Livrables :  
-Synthèse des thèmes récurrents  
-Détection des sentiments  
-Clustering sémantique et visualisation  
+📈 **Bénéfices :** Décisions plus rapides, pilotage basé sur les données, visibilité complète  
+  
+  
+  
+# 🎯
+## D - Offrez-vous une assistance intelligente grâce aux Chatbot et à l'IA générative
+Intégrez des modèles type GPT pour automatiser le traitement des verbatims, la recherche documentaire...  
 
-📈 Mieux comprendre les attentes et problématiques des clients
+**Livrables :**  
+- Prototype de chatbot spécialisé sur vos documents internes ou retours consommateurs  
+- Documentation et intégration simple (API, interface web)  
+- Personnalisation selon vos besoins métier  
 
-
-## C - Création de dashboards interactifs
-Mise en place de tableaux de bord sur Shiny / Excel / (Power BI / Tableau)
-
-Livrables :  
-Un dashboard personnalisé connecté aux données internes  
-Suivi des KPI en temps réel  
-Interface simple pour l'équipe métier  
-
-📈 Prise de décision plus rapide et pilotage basé sur les données en temps réel
-
-
-## D - Chatbot et recherche intelligente (IA Générative / LLM)
-Intégration de modèles type GPT pour assistance interne ou support client
-
-Livrables :  
-Prototype de chatbot (FAQ, recherche documentaire, aide interne)  
-Documentation et intégration simple (API, interface web)  
-
-📈 Amélioration de l'expérience utilisateur et réduction du temps de support
+📈 **Bénéfices :** Amélioration de l'expérience utilisateur, réduction du temps de support, accès rapide à l'information
 

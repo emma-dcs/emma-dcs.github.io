@@ -3,6 +3,11 @@ layout: default
 title: Accueil
 ---
 
-J'aide les équipes R&D, Qualité et Marketing à transformer les données sensorielles, verbatims et process en informations stratégiques.  
-Je m'intéresse aux projets où la donnée devient un levier de décision et d'innovation.
+Vous collectez déjà des milliers de données : indiquateur qualité, avis clients, audits, flux de process, tests sensoriels et retours consommateurs. Mais comment les transformez-vous en leviers de décision ?
+
+J’accompagne les équipes R&D, Qualité et Marketing à transformer ce flux d’informations en tableaux clairs, rapports automatisés et analyses concrètes. En concevant des solutions data sur mesure qui rendent vos données lisibles et actionnables.
+Avec moi, les données ne sont pas qu’un support : ce sont des histoires prêtes à guider vos décisions.
+
+Résultat : moins de temps perdu à chercher l’information, plus de décisions rapides et des produits qui répondent vraiment aux attentes des consommateurs.
+
 

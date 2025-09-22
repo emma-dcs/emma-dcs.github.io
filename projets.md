@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projets
+title: 👩🏻‍💻 Projets réalisés
 ---
 
 Cette page est en cours de création...

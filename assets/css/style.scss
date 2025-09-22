@@ -117,8 +117,8 @@ main {
 }
 
 .footer-icon {
-  width: 16px;   /* taille de l’icône */
-  height: 16px;
+  width: 20px;   /* taille de l’icône */
+  height: 20px;
   vertical-align: middle;
   margin-right: 5px;
   background: none;
@@ -136,7 +136,7 @@ main {
 
 #cv {
   max-width: 25%;   /* ne pas dépasser la largeur du conteneur */
-  max-width: 900px;  /* limite maximale pour ne pas qu’elle devienne trop grande */
+  max-width: 450px;  /* limite maximale pour ne pas qu’elle devienne trop grande */
   height: auto;      /* garde les proportions */
   display: block;
   margin: 0 auto;    /* centre l’image */
