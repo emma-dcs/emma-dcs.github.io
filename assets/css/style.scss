@@ -117,7 +117,7 @@ main {
 }
 
 .footer-icon {
-  width: 20px;   /* taille de l’icône */
+  width: 20px;  
   height: 20px;
   vertical-align: middle;
   margin-right: 5px;
@@ -135,9 +135,25 @@ main {
 }
 
 #cv {
-  width: 20px; 
+  width: 300px; 
+  height: auto;
+  display: block;
+  margin: 0 auto;
 }
 
-.footer-icon {
-  background: transparent !important;
+.projet {
+  padding: 20px;
+  margin: 10px 0;
+}
+
+/* Projets impairs → fond vert */
+.projet:nth-child(odd) {
+  background-color: #7BAE7F;  /* vert */
+  color: white;              /* texte lisible */
+}
+
+/* Projets pairs → fond normal */
+.projet:nth-child(even) {
+  background-color: #FDFCF8;
+  color: black;
 }
