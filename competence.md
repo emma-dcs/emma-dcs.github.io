@@ -54,6 +54,5 @@ title: Compétences
 <br><br>
 
 # Mon CV
-<div id="cv"></div>
-![CV_Emma_ing_data](assets/images/CV_Emma_ing_data.png)
+<img id="cv" src="assets/images/CV_Emma_ing_data.png" alt="CV_Emma_ing_data">
 
