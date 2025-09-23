@@ -56,3 +56,24 @@ title: Compétences
 # Mon CV
 <img id="cv" src="assets/images/CV_Emma_ing_data.png" alt="CV_Emma_ing_data">
 
+
+<a href="#" id="scrollToTop" title="Revenir en haut">⬆️</a>
+<script>
+  const scrollBtn = document.getElementById("scrollToTop");
+
+  // Afficher le bouton quand on descend de 100px
+  window.onscroll = function() {
+    if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+      scrollBtn.style.display = "block";
+    } else {
+      scrollBtn.style.display = "none";
+    }
+  };
+
+  // Cliquer sur le bouton pour revenir en haut
+  scrollBtn.addEventListener("click", function(e) {
+    e.preventDefault();
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  });
+</script>
+

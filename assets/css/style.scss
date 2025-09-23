@@ -135,25 +135,41 @@ main {
 }
 
 #cv {
-  width: 300px; 
+  width: 550px; 
   height: auto;
   display: block;
   margin: 0 auto;
 }
 
-.projet {
+.projets-container .projet {
   padding: 20px;
-  margin: 10px 0;
+  margin-bottom: 20px; /* espace entre les projets */
+  border-radius: 8px;
 }
 
-/* Projets impairs → fond vert */
-.projet:nth-child(odd) {
-  background-color: #7BAE7F;  /* vert */
-  color: white;              /* texte lisible */
+.projets-container .projet:nth-child(odd) {
+  background-color: #7BAE7F;
+  color: white;
 }
 
-/* Projets pairs → fond normal */
-.projet:nth-child(even) {
+.projets-container .projet:nth-child(even) {
   background-color: #FDFCF8;
   color: black;
+}
+
+#scrollToTop {
+  position: fixed;       /* toujours visible à l'écran */
+  bottom: 20px;          
+  right: 20px;           
+  background-color: #2ecc71; 
+  color: white;
+  padding: 10px 15px;
+  border-radius: 50%;    
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  display: none;         /* invisible par défaut */
+  z-index: 1000;         
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.3);
 }
