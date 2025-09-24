@@ -54,5 +54,5 @@ Possibilité de transférer la méthode à d’autres types de retours clients (
 
 <div class="projet-navigation">
   <a href="{{ site.baseurl }}/projet1" class="prev-projet">⬅ Voir le projet 1 : Automatisation du reporting</a>
-  <a href="{{ site.baseurl }}/projet3" class="next-projet">Voir le projet 3 : ... ➡</a>
+  <a href="{{ site.baseurl }}/projet3" class="next-projet">Voir le projet 3 : Évaluation d’une poignée haptique pour l’aide à la mobilité ➡</a>
 </div>

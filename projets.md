@@ -18,13 +18,13 @@ Mon objectif : montrer concrètement comment un problème opérationnel peut se 
     <span class="projet-lien">Découvrir le projet →</span>
     </a>
     <a href="{{ site.baseurl }}/projet3" class="projet">
-    <h3 class="projet-titre">Projet 3 : ...</h3>
-    <p class="projet-description">...</p>
+    <h3 class="projet-titre">Projet 3 : Évaluation d’une poignée haptique pour l’aide à la mobilité </h3>
+    <p class="projet-description">Comment permettre aux personnes en situation de handicap de s'orienter et se déplacer de façon autonome ?</p>
     <span class="projet-lien">Découvrir le projet →</span>
     </a>
     <a href="{{ site.baseurl }}/projet4" class="projet">
-    <h3 class="projet-titre">Projet 4 : ...</h3>
-    <p class="projet-description">...</p>
+    <h3 class="projet-titre">Projet 4 : Aide à la décision pour le choix des cultures agricoles </h3>
+    <p class="projet-description">Comment adapter les cultures aux caractéristiques physico-chimiques des sols ?</p>
     <span class="projet-lien">Découvrir le projet →</span>
     </a>
     
