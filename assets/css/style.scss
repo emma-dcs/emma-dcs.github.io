@@ -172,6 +172,7 @@ main {
 .projet-navigation {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   margin-top: 40px;
   padding-top: 20px;
   border-top: 1px solid #ccc; /* petite séparation visuelle */
@@ -187,4 +188,11 @@ main {
   text-decoration: underline;
 }
 
+.single-right {
+  justify-content: flex-end;
+}
+
+.single-left {
+  justify-content: flex-start;
+}
 

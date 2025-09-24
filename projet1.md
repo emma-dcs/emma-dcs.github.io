@@ -50,4 +50,6 @@ Projet transférable à d’autres secteurs (marketing, finance, qualité, R&D�
 <br>
 
 
-
+<div class="projet-navigation single-right">
+  <a href="{{ site.baseurl }}/projet2" class="next-projet">Voir le projet 2 : Automatisation par IA de l'annotation des retours clients ➡</a>
+</div>
