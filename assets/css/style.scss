@@ -169,3 +169,22 @@ main {
 }
 
 
+.projet-navigation {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 1px solid #ccc; /* petite séparation visuelle */
+}
+
+.projet-navigation a {
+  text-decoration: none;
+  font-size: 0.95em;
+  color: #006400; /* vert foncé, par ex. */
+}
+
+.projet-navigation a:hover {
+  text-decoration: underline;
+}
+
+
