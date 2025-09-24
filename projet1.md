@@ -1,11 +1,9 @@
 ---
 layout: default
-title: 🚀 Projet 1 : Automatisation du reporting
+title: 🚀 Projet 1. Automatisation du reporting
 ---
 
-
-
-## 🔎 Contexte
+# 🔎 Contexte
 <br>
 Les équipes perdaient un temps précieux à produire des rapports clients conformes à un cahier des charges très strict :  
 - Mise en page normalisée  
@@ -16,13 +14,13 @@ Résultat : un processus chronophage, sujet aux erreurs et difficile à standard
 
 <br>
 
-## 🎯 Défi
+# 🎯 Défi
 
 Comment gagner en efficacité sans perdre en qualité ni en flexibilité ?  
 
 <br>
 
-## ⚙️ Actions menées
+# ⚙️ Actions menées
 
 - Développement d’une application R Shiny automatisant la génération de rapports Word (texte, tableaux, graphiques, images).
 - Export en format modifiable et personnalisable (Word) pour conserver la souplesse demandée par les équipes.
@@ -30,7 +28,7 @@ Comment gagner en efficacité sans perdre en qualité ni en flexibilité ?
 
 <br>
 
-## ✅ Résultats obtenus
+# ✅ Résultats obtenus
 
 - Temps de production divisé par 4.
 - Réduction des erreurs liées aux copier-coller et meilleure reproductibilité.
@@ -40,7 +38,7 @@ Projet transférable à d’autres secteurs (marketing, finance, qualité, R&D�
 
 <br>
 
-## 💡 Valeur ajoutée business
+# 💡 Valeur ajoutée business
 
 👉 Libération de temps pour des tâches à plus forte valeur ajoutée.<br>
 👉 Amélioration de la satisfaction client grâce à des livrables plus rapides et plus fiables.<br>
