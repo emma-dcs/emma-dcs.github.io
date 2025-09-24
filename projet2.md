@@ -48,4 +48,11 @@ Possibilité de transférer la méthode à d’autres types de retours clients (
 
 👉 Des insights consommateurs obtenus plus rapidement <br>
 👉 Une standardisation des analyses, utile pour le suivi produit dans la durée <br>
-👉 Moins de temps passé à “coder” les données, plus de temps pour les interpréter et agir
+👉 Moins de temps passé à “coder” les données, plus de temps pour les interpréter et agir <br>
+
+<br><br>
+
+<div class="projet-navigation">
+  <a href="{{ site.baseurl }}/projet1" class="prev-projet">⬅ Voir le projet 1 : Automatisation du reporting</a>
+  <a href="{{ site.baseurl }}/projet3" class="next-projet">Voir le projet 3 : ... ➡</a>
+</div>

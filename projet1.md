@@ -9,7 +9,9 @@ Les équipes perdaient un temps précieux à produire des rapports clients confo
 - Mise en page normalisée  
 - Informations spécifiques à extraire  
 - Graphiques et images à intégrer<br>
+
 Ces rapports étaient réalisés manuellement et regroupaient des informations déjà contenues dans plusieurs fichiers Excel propres aux équipes.<br>  
+
 Résultat : un processus chronophage, sujet aux erreurs et difficile à standardiser.  
 
 <br>
@@ -43,3 +45,9 @@ Projet transférable à d’autres secteurs (marketing, finance, qualité, R&D�
 👉 Libération de temps pour des tâches à plus forte valeur ajoutée.<br>
 👉 Amélioration de la satisfaction client grâce à des livrables plus rapides et plus fiables.<br>
 👉 Standardisation des rapports, facilitant le suivi qualité et la comparaison des données.<br>
+
+<br>
+<br>
+
+
+

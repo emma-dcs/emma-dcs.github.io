@@ -17,6 +17,15 @@ Mon objectif : montrer concrètement comment un problème opérationnel peut se 
     <p class="projet-description">Comment utiliser l'IA pour l'annotation des commentaires sensoriels ?</p>
     <span class="projet-lien">Découvrir le projet →</span>
     </a>
-    <a href="{{ site.baseurl }}/projet3" class="projet">Projet 3 : description...</a>
-    <a href="{{ site.baseurl }}/projet4" class="projet">Projet 4 : description...</a>
+    <a href="{{ site.baseurl }}/projet3" class="projet">
+    <h3 class="projet-titre">Projet 3 : ...</h3>
+    <p class="projet-description">...</p>
+    <span class="projet-lien">Découvrir le projet →</span>
+    </a>
+    <a href="{{ site.baseurl }}/projet4" class="projet">
+    <h3 class="projet-titre">Projet 4 : ...</h3>
+    <p class="projet-description">...</p>
+    <span class="projet-lien">Découvrir le projet →</span>
+    </a>
+    
 </div>
