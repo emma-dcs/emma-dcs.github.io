@@ -52,5 +52,5 @@ Projet transférable à d’autres secteurs (marketing, finance, qualité, R&D�
 
 <div class="projet-navigation">
   <a href="{{ site.baseurl }}/projet3" class="prev-projet">⬅ Voir le projet 3 : Automatisation par IA de l'annotation des retours clients</a>
-  <a href="{{ site.baseurl }}/projet5" class="next-projet">Voir le projet 5 : Utilisation d'un chatbot➡</a>
+  <a href="{{ site.baseurl }}/projet5" class="next-projet">Voir le projet 5 : Création d’un chatbot pour faciliter la consultation de documents techniques➡</a>
 </div>

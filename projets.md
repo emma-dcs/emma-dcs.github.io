@@ -6,20 +6,20 @@ title: 👩🏻‍💻 Projets réalisés
 📊 Chaque projet présenté ici illustre un défi métier rencontré par les équipes agroalimentaires (qualité, R&D, marketing…) et la manière dont la donnée a permis de le résoudre.<br><br>
 Mon objectif : montrer concrètement comment un problème opérationnel peut se transformer en solution data efficace, reproductible et transférable à d’autres secteurs. <br><br>
 
-<label for="filtreService">Projets associés au service :</label>
+<label for="filtreService">Projets associés au service proposé :</label>
 <select id="filtreService">
   <option value="all">Tous</option>
   <option value="A">A - Libérez du temps grâce à l'automatisation de vos rapports</option>
   <option value="B">B - Faites parler vos clients grâce à l'analyse de verbatims</option>
   <option value="C">C - Pilotez vos projets avec des dashboards interactifs</option>
   <option value="D">D - Offrez-vous une assistance intelligente grâce aux Chatbot et à l'IA générative</option>
-  <option value="E">E - Autres</option>
+  <option value="E">E - Autre</option>
 </select>
 
 <div class="projets-container">
     <a href="{{ site.baseurl }}/projet5" class="projet" data-service="D">
-    <h3 class="projet-titre">Projet 5 : Utilisation d'un chatbot</h3>
-    <p class="projet-description"></p>
+    <h3 class="projet-titre">Projet 5 : Création d’un chatbot pour faciliter la consultation de documents techniques</h3>
+    <p class="projet-description">Comment rendre la recherche d’information instantanée et autonome pour vos équipes ?</p>
     <span class="projet-lien">Découvrir le projet →</span>
     </a>
     <a href="{{ site.baseurl }}/projet4" class="projet" data-service="A">

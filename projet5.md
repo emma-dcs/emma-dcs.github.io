@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projet 5. Utilisation d'un chatbot
+title: Projet 5. Création d’un chatbot pour faciliter la consultation de documents techniques
 ---
 
 Cette page est en cours de création...
