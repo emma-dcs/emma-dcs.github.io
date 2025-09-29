@@ -168,6 +168,13 @@ main {
   font-style: italic;
 }
 
+.projet-image {
+  width: 60px;      
+  height: auto;
+  margin-bottom: 10px;
+  display: block;
+}
+
 
 .projet-navigation {
   display: flex;
@@ -195,4 +202,5 @@ main {
 .single-left {
   justify-content: flex-start;
 }
+
 
