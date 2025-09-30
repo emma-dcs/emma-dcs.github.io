@@ -4,7 +4,7 @@ title: À propos
 ---
 
 <p style="text-align: justify;">
-Mon parcours a commencé les bottes aux pieds, dans une exploitation agricole d’élevage de poules biologiques. J’y ai découvert l’envers du décor de notre alimentation : les cycles naturels, les contraintes du quotidien et l’importance de la qualité dès la première étape.<br><br>
+Mon parcours a commencé les bottes aux pieds, dans une exploitation agricole d’élevage de poules biologiques. J’y ai appris que derrière chaque produit que nous consommons se cachent des choix quotidiens exigeants, où la qualité et la rigueur commencent bien avant la transformation ou la vente.<br><br>
 
 Puis, en laiterie chez EURIAL et dans une biscuiterie au Portugal chez Du Bois de la Roche, j’ai plongé dans le monde de la qualité et de la sécurité alimentaire. Audits, réclamations clients, flux de circulation, évaluation des fournisseurs… j’ai vite réalisé que les ingénieurs qualité manipulent une montagne de données. Des données précieuses, mais trop souvent limitées à un usage immédiat, jamais utilisées pour anticiper ou optimiser.<br><br>
 

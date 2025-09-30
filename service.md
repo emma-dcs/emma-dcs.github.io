@@ -63,3 +63,9 @@ Intégrez des modèles type GPT pour automatiser le traitement des verbatims, la
 
 📈 **Bénéfices :** Amélioration de l'expérience utilisateur, réduction du temps de support, accès rapide à l'information
 
+<br><br><br>
+  
+<h1 style="text-align: center;">👥</h1>
+
+## E - Vous avez un autre projet ? Parlons-en !
+<a href="{{ site.baseurl }}/contact" class="btn-contact">Me contacter</a>
