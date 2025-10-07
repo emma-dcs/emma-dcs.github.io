@@ -10,5 +10,5 @@ Puis, en laiterie chez EURIAL et dans une biscuiterie au Portugal chez Du Bois d
 
 C’est cette frustration qui m’a menée vers la data science. Chez Mérieux NutriSciences, j’ai pu transformer cette intuition en action : développement d’une application R Shiny qui automatise en quelques minutes des rapports qui manuellement prenaient plusieurs jours, exploration des modèles de langage, de l'Intelligence Artificielle pour analyser des milliers de verbatims consommateurs, mise en place d’outils concrets pour aider les équipes marketing, R&D et qualité à décider plus vite.<br><br>
 
-Aujourd’hui, je combine mes deux mondes — la passion pour les produits alimentaires et la maîtrise des données — pour transformer des tableaux Excel, des verbatims ou des indicateurs qualité en supports lisibles qui guident les décisions. Car je suis convaincue que dans l’agroalimentaire, la donnée est un ingrédient aussi essentiel que le lait ou le cacao.
+Aujourd’hui, je combine mes deux mondes — la passion pour les produits alimentaires et la maîtrise des données — pour transformer des tableaux Excel, des verbatims ou des indicateurs qualité en supports lisibles qui guident les décisions. Car, je suis convaincue que dans l’agroalimentaire, la donnée est un ingrédient aussi essentiel que le lait ou le cacao.
 </p>

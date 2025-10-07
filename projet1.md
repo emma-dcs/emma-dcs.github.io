@@ -3,6 +3,19 @@ layout: default
 title: 🌱 Projet 1. Aide à la décision pour le choix des cultures agricoles (Projet d'étude)
 ---
 
+<div class="textecentre">
+  <h3>Contribution à la conférence</h3>
+
+  <p>
+    "One Health : Le Machine Learning pour la santé du monde"<br>
+    du 24/10/2024
+  </p>
+
+  <a href="https://github.com/emma-dcs/M2_Projet_Conf_ML" target="_blank" class="btn-github">
+  💻 Consulter le projet sur GitHub
+  </a>
+</div>
+
 # 🔎 Contexte
 <br>
 D’ici 2050, la population mondiale atteindra 9,1 milliards d’habitants, augmentant de 70 % les besoins alimentaires.
@@ -40,10 +53,10 @@ Objectif : aider les agriculteurs à faire des choix éclairés sur les cultures
 
 # 💡 Valeur ajoutée
 
-👉 Aide concrète à la prise de décision pour les agriculteurs : optimisation des ressources, amélioration des rendements, durabilité accrue
-👉 Possibilité d’extension à d’autres régions géographiques ou cultures
-👉 Base pour développer des solutions agritech basées sur l’IA, combinant machine learning et deep learning
-
+👉 Aide concrète à la prise de décision pour les agriculteurs : optimisation des ressources, amélioration des rendements, durabilité accrue<br>
+👉 Possibilité d’extension à d’autres régions géographiques ou cultures<br>
+👉 Base pour développer des solutions agritech basées sur l’IA, combinant machine learning et deep learning<br>
+<br><br>
 
 
 <div class="projet-navigation single-right">

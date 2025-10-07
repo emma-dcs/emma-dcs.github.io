@@ -53,7 +53,7 @@ Suivez vos KPI en temps réel avec des tableaux de bord sur-mesure
   
 <h1 style="text-align: center;">🎯</h1>
 
-## D - Offrez-vous une assistance intelligente grâce aux Chatbot et à l'IA générative
+## D - Offrez-vous une assistance intelligente grâce aux Chatbot ou à l'IA générative
 Intégrez des modèles type GPT pour automatiser le traitement des verbatims, la recherche documentaire...  
 
 **Livrables :**  

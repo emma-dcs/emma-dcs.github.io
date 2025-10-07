@@ -42,7 +42,7 @@ title: Compétences
 ● Gestion de projet agile : planification, priorisation, suivi d'avancement  
 ● Collaboration interdisciplinaire : travail en équipe avec data engineers, développeurs, métiers, UX/UI designers  
 ● Recueil et analyse des besoins utilisateurs : compréhension métier, traduction en solutions data  
-● Communication des résultats : vulgarisation des analyses, storytelling , présentation aux parties prenantes non techniques  
+● Communication des résultats : vulgarisation des analyses, storytelling, présentation aux parties prenantes non techniques  
 ● Esprit critique et résolution de problèmes : capacité à formuler des hypothèses, tester et proposer des solutions data-driven  
 ● Autonomie et curiosité : veille technologique/bibliographique, apprentissage continu, expérimentation de nouveaux outils  
   
@@ -55,4 +55,8 @@ title: Compétences
 
 # Mon CV
 <img id="cv" src="assets/images/CV_Emma_ing_data.png" alt="CV_Emma_ing_data">
+
+<a href="assets/images/CV_Emma_ing_data.png" download="CV_Emma_ING_DATA.png" class="btn-telecharger">
+  📄 Télécharger le CV
+</a>
 

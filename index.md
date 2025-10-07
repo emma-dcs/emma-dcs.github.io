@@ -8,7 +8,7 @@ Vous collectez déjà des milliers de données : indiquateur qualité, avis clie
 
 J’accompagne les équipes R&D, Qualité et Marketing à transformer ce flux d’informations en tableaux clairs, rapports automatisés et analyses concrètes. <br>
 En concevant des solutions data sur mesure qui rendent vos données lisibles et actionnables.<br>
-Avec moi, les données ne sont pas qu’un support : ce sont des histoires prêtes à guider vos décisions.<br><br>
+Pour moi, les données ne sont pas qu’un support : ce sont des histoires prêtes à guider vos décisions.<br><br>
 
 Résultat : moins de temps perdu à chercher l’information, plus de décisions rapides et des produits qui répondent vraiment aux attentes des consommateurs.
 </p>
