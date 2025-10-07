@@ -10,9 +10,7 @@ title: Contact
 Vous avez un projet, une question ou souhaitez échanger sur vos besoins data ?  
 N’hésitez pas à me contacter par email ou via LinkedIn. Je serai ravie d’en discuter !
 
-
-
-<div class="badges-container">
+<div class="textecentre">
     <!-- Bouton mail -->
     <a href="mailto:emma.dacslv@gmail.com" class="badge-mail">
         ✉️ Contacter par mail : emma.dacslv@gmail.com
@@ -20,16 +18,23 @@ N’hésitez pas à me contacter par email ou via LinkedIn. Je serai ravie d’e
     <br><br>
     <!-- Badge Linkedin -->
     <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-    <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="emma-d-352a37211" data-version="v1">
-        <a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/emma-d-352a37211?trk=profile-badge">
-            https://www.linkedin.com/in/emma-d-352a37211
-        </a>
-    </div>
-</div>            
+    <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="emma-d-352a37211" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/emma-d-352a37211?trk=profile-badge"></a></div>
+    <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=emma-d-352a37211" target="_blank">Suivre sur LinkedIn</a>
+</div> 
+         
 
-<form action="https://formsubmit.co/emma.dacslv@gmail.com" method="POST">
-  <input type="text" name="name" placeholder="Nom" required>
-  <input type="email" name="email" placeholder="Email" required>
-  <textarea name="message" placeholder="Message" required></textarea>
+<form action="https://formsubmit.co/emma.dacslv@gmail.com" method="POST" class="contact-form">
+  <h3>Contactez-moi</h3>
+
+  <label for="name">Nom</label>
+  <input type="text" id="name" name="name" placeholder="Votre nom" required>
+
+  <label for="email">Email</label>
+  <input type="email" id="email" name="email" placeholder="Votre email" required>
+
+  <label for="message">Message</label>
+  <textarea id="message" name="message" placeholder="Votre message" rows="5" required></textarea>
+
   <button type="submit">Envoyer</button>
 </form>
+
