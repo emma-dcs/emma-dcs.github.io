@@ -8,7 +8,7 @@ title: Contact
 <div id="contact"></div>
 
 Vous avez un projet, une question ou souhaitez échanger sur vos besoins data ?  
-N’hésitez pas à me contacter par email ou via LinkedIn. Je serai ravie d’en discuter !
+N’hésitez pas à me contacter par email, via LinkedIn ou sur le formulaire ci-dessous. Je serai ravie d’en discuter !
 
 <div class="textecentre">
     <!-- Bouton mail -->
@@ -18,7 +18,7 @@ N’hésitez pas à me contacter par email ou via LinkedIn. Je serai ravie d’e
     <br><br>
     <!-- Badge Linkedin -->
     <a <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-    <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="emma-d-352a37211" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/emma-d-352a37211?trk=profile-badge"></a></div></a>
+    <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="emma-d-352a37211" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/emma-d-352a37211?trk=profile-badge">
     <a class="btn-github" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=emma-d-352a37211" target="_blank">Suivre sur LinkedIn</a>
 </div> 
          
@@ -29,11 +29,14 @@ N’hésitez pas à me contacter par email ou via LinkedIn. Je serai ravie d’e
   <label for="name">Nom</label>
   <input type="text" id="name" name="name" placeholder="Votre nom" required>
 
+  <label for="entreprise">Nom</label>
+  <input type="text" id="entreprise" name="entreprise" placeholder="Votre entreprise" required>
+
   <label for="email">Email</label>
   <input type="email" id="email" name="email" placeholder="Votre email" required>
 
   <label for="message">Message</label>
-  <textarea id="message" name="message" placeholder="Votre message" rows="5" required></textarea>
+  <textarea id="message" name="message" placeholder="Votre demande" rows="5" required></textarea>
 
   <button type="submit">Envoyer</button>
 </form>
