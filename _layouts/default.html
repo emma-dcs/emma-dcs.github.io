@@ -11,6 +11,13 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     <link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/images/favicon.png">
     <title>Emma – Data Scientist{% if page.title %} – {{ page.title }}{% endif %}</title>
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}Portfolio d'Emma – Data Scientist & Ingénieure Agroalimentaire{% endif %}">
+    
+    <meta property="og:title" content="Emma – Data Scientist & Ingénieure Agroalimentaire {{ page.title }}">
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}Portfolio d'Emma – Data Scientist & Ingénieure Agroalimentaire{% endif %}">
+    <meta property="og:image" content="{{ site.baseurl }}/assets/images/og-image-projets.png">
+    <meta property="og:type" content="website">
+
   </head>
 
   <body>
