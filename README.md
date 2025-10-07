@@ -32,8 +32,8 @@ Exploration de l’usage des modèles de langage (OpenAI, Gemini) pour annoter d
 
 ## 📫 Me contacter
 
-📩 Email : [emma.dacslv@gmail.com]
-🔗 Portfolio : [https://emma-dcs.github.io/]
-💼 LinkedIn : [https://www.linkedin.com/in/emma-d-352a37211]
+📩 Email : emma.dacslv@gmail.com  
+🔗 Portfolio : https://emma-dcs.github.io/  
+💼 LinkedIn : https://www.linkedin.com/in/emma-d-352a37211
 
 💬 “La donnée est un ingrédient aussi stratégique que les matières premières — bien utilisée, elle améliore la qualité, accélère les décisions et révèle ce que vivent vraiment les consommateurs.”
