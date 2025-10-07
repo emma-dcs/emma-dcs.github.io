@@ -260,3 +260,29 @@ main {
   text-align: center;  /* centre tout le contenu */
   margin-top: 40px;
 }
+
+.badge-mail {
+    display: inline-block;
+    background-color: #7BAE7F;  /* vert doux */
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.badge-mail:hover {
+  color: white;                 /* reste blanc */
+  background-color: #5a7a4f;    /* effet de survol */
+  text-decoration: none;        /* évite le soulignement */
+}
+
+.badges-container {
+    display: flex;                 /* active Flexbox */
+    justify-content: space-between; /* email à gauche, LinkedIn à droite */
+    align-items: center;           /* aligne verticalement sur le centre */
+    max-width: 800px;              /* largeur maximale du conteneur */
+    margin: 20px auto;             /* centre horizontalement le conteneur */
+    padding: 0 20px;
+}
