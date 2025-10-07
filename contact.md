@@ -16,11 +16,25 @@ N’hésitez pas à me contacter par email, via LinkedIn ou sur le formulaire ci
         ✉️ Contacter par mail : emma.dacslv@gmail.com
     </a>
     <br><br>
-    <!-- Badge Linkedin -->
-    <a <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-    <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="emma-d-352a37211" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/emma-d-352a37211?trk=profile-badge">
-    <a class="btn-github" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=emma-d-352a37211" target="_blank">Suivre sur LinkedIn</a>
-</div> 
+    <!-- Badge LinkedIn centré -->
+    <div class="textecentre">
+        <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+        <div class="badge-base LI-profile-badge" 
+             data-locale="fr_FR" 
+             data-size="large" 
+             data-theme="light" 
+             data-type="HORIZONTAL" 
+             data-vanity="emma-d-352a37211" 
+             data-version="v1">
+        </div>
+    </div>
+    <br>
+    <!-- Bouton Suivre sur LinkedIn -->
+    <a class="btn-github" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=emma-d-352a37211" target="_blank">
+        Suivre sur LinkedIn
+    </a>
+</div>
+
          
 
 <form action="https://formsubmit.co/25f8342e7ed18e484f8a024826d9583f" method="POST" class="contact-form">
@@ -29,7 +43,7 @@ N’hésitez pas à me contacter par email, via LinkedIn ou sur le formulaire ci
   <label for="name">Nom</label>
   <input type="text" id="name" name="name" placeholder="Votre nom" required>
 
-  <label for="entreprise">Nom</label>
+  <label for="entreprise">Entreprise</label>
   <input type="text" id="entreprise" name="entreprise" placeholder="Votre entreprise" required>
 
   <label for="email">Email</label>
