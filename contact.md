@@ -8,7 +8,7 @@ title: Contact
 <div id="contact"></div>
 
 Vous avez un projet, une question ou souhaitez échanger sur vos besoins data ?  
-N’hésitez pas à me contacter par email, via LinkedIn ou sur le formulaire ci-dessous. Je serai ravie d’en discuter !
+N’hésitez pas à me contacter par email, sur LinkedIn ou via le formulaire ci-dessous. Je serai ravie d’en discuter !
 
 <div class="textecentre">
     <!-- Bouton mail -->
@@ -16,22 +16,9 @@ N’hésitez pas à me contacter par email, via LinkedIn ou sur le formulaire ci
         ✉️ Contacter par mail : emma.dacslv@gmail.com
     </a>
     <br><br>
-    <!-- Badge LinkedIn centré -->
-    <div class="textecentre">
-        <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-        <div class="badge-base LI-profile-badge" 
-             data-locale="fr_FR" 
-             data-size="large" 
-             data-theme="light" 
-             data-type="HORIZONTAL" 
-             data-vanity="emma-d-352a37211" 
-             data-version="v1">
-        </div>
-    </div>
-    <br>
     <!-- Bouton Suivre sur LinkedIn -->
     <a class="btn-github" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=emma-d-352a37211" target="_blank">
-        Suivre sur LinkedIn
+        Suivre sur LinkedIn : https://www.linkedin.com/in/emma-d-352a37211
     </a>
 </div>
 
