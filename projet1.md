@@ -14,7 +14,13 @@ title: 🌱 Projet 1. Aide à la décision pour le choix des cultures agricoles 
   <a href="https://github.com/emma-dcs/M2_Projet_Conf_ML" target="_blank" class="btn-github">
   💻 Consulter le projet sur GitHub
   </a>
+
+  <a href="https://sites.google.com/view/confrence-spcialit-sciences-de/programme?authuser=0" target="_blank" class="btn-github">
+  💻 Consulter le programme de la conférence
+  </a>
 </div>
+
+<br><br>
 
 # 🔎 Contexte
 <br>
