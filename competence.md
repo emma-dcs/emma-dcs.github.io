@@ -53,7 +53,8 @@ title: Compétences
   
 <br><br>
 
-# Mon CV <a href="assets/images/CV_Emma_ing_data.png" download="CV_Emma_ING_DATA.png" class="btn-telecharger">
+# Mon CV 
+<a href="assets/images/CV_Emma_ing_data.png" download="CV_Emma_ING_DATA.png" class="btn-telecharger">
   📄 Télécharger le CV
 </a>
 

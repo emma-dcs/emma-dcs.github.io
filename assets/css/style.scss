@@ -214,9 +214,7 @@ main {
   font-weight: bold;
 }
 
-.btn-contact:hover,
-.btn-contact:visited,
-.btn-contact:active {
+.btn-contact:hover {
   color: white;                 /* reste blanc */
   background-color: #5a7a4f;    /* effet de survol */
   text-decoration: none;        /* évite le soulignement */
@@ -234,9 +232,7 @@ main {
   transition: background-color 0.3s ease;
 }
 
-.btn-telecharger:hover,
-.btn-telecharger:visited,
-.btn-telecharger:active {
+.btn-telecharger:hover {
   color: white;                 /* reste blanc */
   background-color: #5a7a4f;    /* effet de survol */
   text-decoration: none;        /* évite le soulignement */
@@ -254,9 +250,7 @@ main {
   transition: background-color 0.3s ease;
 }
 
-.btn-github:hover,
-.btn-github:visited,
-.btn-github:active {
+.btn-github:hover {
   color: white;                 /* reste blanc */
   background-color: #5a7a4f;    /* effet de survol */
   text-decoration: none;        /* évite le soulignement */

@@ -20,12 +20,12 @@ Ingénieure Agroalimentaire & Data Scientist spécialisée dans la valorisation 
 ## 🚀 Projets présentés dans mon portfolio
 🔹 Automatisation de reporting
 
-Développement d’une application R Shiny générant automatiquement des rapports Word conformes au cahier des charges client
+Développement d’une application R Shiny générant automatiquement des rapports Word conformes au cahier des charges client  
 → Impact : réduction du temps de production de plusieurs jours à quelques minutes
 
 🔹 Analyse automatisée de verbatims consommateurs
 
-Exploration de l’usage des modèles de langage (OpenAI, Gemini) pour annoter des retours consommateurs et identifier les tendances produit
+Exploration de l’usage des modèles de langage (OpenAI, Gemini) pour annoter des retours consommateurs et identifier les tendances produit  
 → Impact : gain de temps, homogénéité de l’analyse, meilleure compréhension des attentes
 
 🔹 [Cliquer ici pour voir les autres projets](https://emma-dcs.github.io/projets)
