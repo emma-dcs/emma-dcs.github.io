@@ -6,42 +6,46 @@ title: 🖐 Projet 2. Évaluation d’une poignée haptique pour l’aide à la 
 
 # 🔎 Contexte
 <br>
+<div style="text-align: justify;">
 Ce projet a été commandité par l’INSA Beaulieu et le Pôle Saint-Hélier, dans le cadre du projet Dornell, visant à aider les personnes en situation de handicap à se déplacer plus facilement grâce au sens du toucher.<br>
 L’objectif était de développer et tester une poignée haptique, capable de transmettre des informations via des vibrations, pour faciliter l’orientation et la motricité.
+</div>
 
-<br>
+
+<br><br>
 
 # 🎯 Défi
 
-- Comparer l’efficacité de différents dispositifs ou algorithmes haptiques sur les trajectoires des utilisateurs
-- Identifier les solutions permettant d’adapter la guidance tactile à chaque individu, afin de favoriser la mobilité autonome
+- Comparer l’efficacité de différents dispositifs ou algorithmes haptiques sur les trajectoires des utilisateurs<br>
+- Identifier les solutions permettant d’adapter la guidance tactile à chaque individu, afin de favoriser la mobilité autonome<br>
 - Garantir la sécurité et la précision des utilisateurs à mobilité réduite
 
-<br>
+<br><br>
 
 # ⚙️ Actions menées
 
-- Conception et suivi d’expérimentations pour recueillir des trajectoires de mouvement en 2D
-- Analyse des trajectoires selon différents algorithmes haptiques : précision, fluidité, autonomie de l’utilisateur
-- Développement de protocoles personnalisés basés sur les résultats : chaque utilisateur pouvait bénéficier d’un ajustement de la poignée selon ses besoins
+- Conception et suivi d’expérimentations pour recueillir des trajectoires de mouvement en 2D<br>
+- Analyse des trajectoires selon différents algorithmes haptiques : précision, fluidité, autonomie de l’utilisateur<br>
+- Développement de protocoles personnalisés basés sur les résultats : chaque utilisateur pouvait bénéficier d’un ajustement de la poignée selon ses besoins<br>
 - Collaboration interdisciplinaire : interaction avec ingénieurs, ergothérapeutes et chercheurs
 
-<br>
+<br><br>
 
 # ✅ Résultats obtenus
 
-- Comparaison des performances de différents algorithmes haptiques sur la mobilité des utilisateurs
-- Mise en place d’un protocole de personnalisation de l’accompagnement tactile
+- Comparaison des performances de différents algorithmes haptiques sur la mobilité des utilisateurs<br>
+- Mise en place d’un protocole de personnalisation de l’accompagnement tactile<br>
 - Différenciation des profils d'utilisateurs en fonction des pathologies
-<br>
+
+<br><br>
 
 # 💡 Valeur ajoutée
 
-👉 Amélioration de l’autonomie des personnes handicapées dans leurs déplacements <br>
-👉 Génération de données exploitables pour la conception future de dispositifs haptiques personnalisés <br>
-👉 Validation d’un protocole scientifique robuste, transférable à d’autres dispositifs d’aide à la mobilité <br>
+👉 Amélioration de l’autonomie des personnes handicapées dans leurs déplacements <br><br>
+👉 Génération de données exploitables pour la conception future de dispositifs haptiques personnalisés <br><br>
+👉 Validation d’un protocole scientifique robuste, transférable à d’autres dispositifs d’aide à la mobilité 
 
-<br><br>
+<br><br><br>
 
 <div class="projet-navigation">
   <a href="{{ site.baseurl }}/projet1" class="prev-projet">⬅ Voir le projet 1 : Aide à la décision pour le choix des cultures agricoles</a>

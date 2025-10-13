@@ -12,40 +12,40 @@ Les évaluations (fraude alimentaire, allergènes, contaminants, pesticides, tra
 </div>
 
 
-<br>
+<br><br>
 
 # ❓ Défi
 
 Comment standardiser et fiabiliser l’évaluation des fournisseurs et des matières premières, tout en simplifiant la prise de décision pour les responsables qualité ?
 
-<br>
+<br><br>
 
 # ⚙️ Actions menées
 
 - Création de questionnaires Excel interactifs destinés aux fournisseurs de matières premières et d’emballages<br>
-→ Collecte systématique des données réglementaires (allergènes, contaminants, pesticides…)<br>
+→ Collecte systématique des données réglementaires (allergènes, contaminants, pesticides…)<br><br>
 
 - Développement de fichiers Excel structurés et conditionnels, fonctionnant comme un arbre de décision :<br>
-→ Évaluation automatique du niveau de risque des fournisseurs (faible, moyen, élevé)<br>
+→ Évaluation automatique du niveau de risque des fournisseurs (faible, moyen, élevé)<br><br>
 
 - Conception d’un outil d’évaluation de l’authenticité des matières premières selon les exigences IFS<br>
-→ Intégration de critères pondérés (origine, transformation, historique de fraude, etc.)<br>
+→ Intégration de critères pondérés (origine, transformation, historique de fraude, etc.)<br><br>
 
 - Uniformisation et archivage des réponses pour faciliter les audits internes et les contrôles externes
 
-<br>
+<br><br>
 
 # ✅ Résultats obtenus
 
-- Gain de temps dans la préparation des audits et dans la mise à jour des évaluations
+- Gain de temps dans la préparation des audits et dans la mise à jour des évaluations<br>
 
-- Outils plus visuels et compréhensibles pour les équipes qualité
+- Outils plus visuels et compréhensibles pour les équipes qualité<br>
 
-- Amélioration de la traçabilité documentaire et de la conformité réglementaire
+- Amélioration de la traçabilité documentaire et de la conformité réglementaire<br>
 
-- Démonstration d’une approche data-driven de la gestion qualité
+- Démonstration d’une approche data-driven de la gestion qualité<br>
 
-<br>
+<br><br>
 
 # 💡 Compétences mobilisées
 <style>
@@ -118,7 +118,7 @@ Comment standardiser et fiabiliser l’évaluation des fournisseurs et des mati�
    </a>
 </div>
 
-<br><br>
+<br><br><br>
 
 <div class="projet-navigation single-left">
   <a href="{{ site.baseurl }}/projet5" class="prev-projet">⬅ Voir le projet 5 : Création d’un chatbot pour faciliter la consultation de documents techniques</a>

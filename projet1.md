@@ -37,38 +37,38 @@ Objectif : aider les agriculteurs à faire des choix éclairés sur les cultures
 
 # 🎯 Défi
 
-- Prédire les cultures les plus adaptées à partir des caractéristiques complexes des sols et du climat
-- Gérer les interactions multiples entre variables (sol, météo, type de culture)
-- Fournir un outil décisionnel utilisable par les agriculteurs pour optimiser rendement et durabilité
+- Prédire les cultures les plus adaptées à partir des caractéristiques complexes des sols et du climat<br>
+- Gérer les interactions multiples entre variables (sol, météo, type de culture)<br>
+- Fournir un outil décisionnel utilisable par les agriculteurs pour optimiser rendement et durabilité<br>
 
-<br>
+<br><br>
 
 # ⚙️ Actions menées
 <div style="text-align: justify;">
-- Développement de modèles de machine learning : régression, k-nearest neighbors (KNN), forêts aléatoires (Random Forests)<br>
-- Sélection de variables via stepwise et élimination récursive (RFE) pour identifier les facteurs les plus influents<br>
-- Évaluation de la performance des modèles (accuracy) et comparaison entre modèles complets et modèles sélectionnés<br>
+- Développement de modèles de machine learning : régression, k-nearest neighbors (KNN), forêts aléatoires (Random Forests)<br><br>
+- Sélection de variables via stepwise et élimination récursive (RFE) pour identifier les facteurs les plus influents<br><br>
+- Évaluation de la performance des modèles (accuracy) et comparaison entre modèles complets et modèles sélectionnés<br><br>
 - Application d’une classification ascendante hiérarchique pour prédire les cultures similaires et différencier celles aux besoins agronomiques proches
 </div>
 
-<br>
+<br><br>
 
 # ✅ Résultats obtenus
 <div style="text-align: justify;">
-- Modèles capables de prédire efficacement les cultures adaptées en fonction des caractéristiques des sols et de l’environnement<br>
-- Identification des variables clés influençant le choix des cultures<br>
+- Modèles capables de prédire efficacement les cultures adaptées en fonction des caractéristiques des sols et de l’environnement<br><br>
+- Identification des variables clés influençant le choix des cultures<br><br>
 - Création d’un processus reproductible et transférable à d’autres régions ou types de cultures
 </div>
 
-<br>
+<br><br>
 
 # 💡 Valeur ajoutée
 <div style="text-align: justify;">
-👉 Aide concrète à la prise de décision pour les agriculteurs : optimisation des ressources, amélioration des rendements, durabilité accrue<br>
-👉 Possibilité d’extension à d’autres régions géographiques ou cultures<br>
+👉 Aide concrète à la prise de décision pour les agriculteurs : optimisation des ressources, amélioration des rendements, durabilité accrue<br><br>
+👉 Possibilité d’extension à d’autres régions géographiques ou cultures<br><br>
 👉 Base pour développer des solutions agritech basées sur l’IA, combinant machine learning et deep learning<br>
 </div>
-<br><br>
+<br><br><br>
 
 
 <div class="projet-navigation single-right">

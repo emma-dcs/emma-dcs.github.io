@@ -5,6 +5,7 @@ title: 🚀 Projet 4. Automatisation du reporting
 
 # 🔎 Contexte
 <br>
+<div style="text-align: justify;">
 Les équipes perdaient un temps précieux à produire des rapports clients conformes à un cahier des charges très strict :  
 - Mise en page normalisée  
 - Informations spécifiques à extraire  
@@ -13,6 +14,8 @@ Les équipes perdaient un temps précieux à produire des rapports clients confo
 Ces rapports étaient réalisés manuellement et regroupaient des informations déjà contenues dans plusieurs fichiers Excel propres aux équipes.<br>  
 
 Résultat : un processus chronophage, sujet aux erreurs et difficile à standardiser  
+</div>
+
 
 <br>
 
@@ -20,34 +23,34 @@ Résultat : un processus chronophage, sujet aux erreurs et difficile à standard
 
 Comment gagner en efficacité sans perdre en qualité ni en flexibilité ?  
 
-<br>
+<br><br>
 
 # ⚙️ Actions menées
 
-- Développement d’une application R Shiny automatisant la génération de rapports Word (texte, tableaux, graphiques, images)
-- Export en format modifiable et personnalisable (Word) pour conserver la souplesse demandée par les équipes
-- Intégration de bonnes pratiques de développement : mise en place d'alertes visuelles
+- Développement d’une application R Shiny automatisant la génération de rapports Word (texte, tableaux, graphiques, images)<br>
+- Export en format modifiable et personnalisable (Word) pour conserver la souplesse demandée par les équipes<br>
+- Intégration de bonnes pratiques de développement : mise en place d'alertes visuelles<br>
 
-<br>
+<br><br>
 
 # ✅ Résultats obtenus
 
-- Temps de production divisé par 4
-- Réduction des erreurs liées aux copier-coller et meilleure reproductibilité
-- Autonomie des équipes : interface intuitive, peu de formation nécessaire
+- Temps de production divisé par 4<br>
+- Réduction des erreurs liées aux copier-coller et meilleure reproductibilité<br>
+- Autonomie des équipes : interface intuitive, peu de formation nécessaire<br>
 
 Projet transférable à d’autres secteurs (marketing, finance, qualité, R&D…)
 
-<br>
+<br><br>
 
 # 💡 Valeur ajoutée business
 
-👉 Libération de temps pour des tâches à plus forte valeur ajoutée<br>
-👉 Amélioration de la satisfaction client grâce à des livrables plus rapides et plus fiables<br>
-👉 Standardisation des rapports, facilitant le suivi qualité et la comparaison des données<br>
+👉 Libération de temps pour des tâches à plus forte valeur ajoutée<br><br>
+👉 Amélioration de la satisfaction client grâce à des livrables plus rapides et plus fiables<br><br>
+👉 Standardisation des rapports, facilitant le suivi qualité et la comparaison des données
 
 <br>
-<br>
+<br><br>
 
 
 <div class="projet-navigation">
