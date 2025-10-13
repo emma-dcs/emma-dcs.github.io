@@ -45,28 +45,29 @@ Objectif : aider les agriculteurs à faire des choix éclairés sur les cultures
 
 # ⚙️ Actions menées
 <div style="text-align: justify;">
-- Développement de modèles de machine learning : régression, k-nearest neighbors (KNN), forêts aléatoires (Random Forests)
-- Sélection de variables via stepwise et élimination récursive (RFE) pour identifier les facteurs les plus influents
-- Évaluation de la performance des modèles (accuracy) et comparaison entre modèles complets et modèles sélectionnés
+- Développement de modèles de machine learning : régression, k-nearest neighbors (KNN), forêts aléatoires (Random Forests)<br>
+- Sélection de variables via stepwise et élimination récursive (RFE) pour identifier les facteurs les plus influents<br>
+- Évaluation de la performance des modèles (accuracy) et comparaison entre modèles complets et modèles sélectionnés<br>
 - Application d’une classification ascendante hiérarchique pour prédire les cultures similaires et différencier celles aux besoins agronomiques proches
 </div>
-
 
 <br>
 
 # ✅ Résultats obtenus
-
-- Modèles capables de prédire efficacement les cultures adaptées en fonction des caractéristiques des sols et de l’environnement
-- Identification des variables clés influençant le choix des cultures
+<div style="text-align: justify;">
+- Modèles capables de prédire efficacement les cultures adaptées en fonction des caractéristiques des sols et de l’environnement<br>
+- Identification des variables clés influençant le choix des cultures<br>
 - Création d’un processus reproductible et transférable à d’autres régions ou types de cultures
+</div>
 
 <br>
 
 # 💡 Valeur ajoutée
-
+<div style="text-align: justify;">
 👉 Aide concrète à la prise de décision pour les agriculteurs : optimisation des ressources, amélioration des rendements, durabilité accrue<br>
 👉 Possibilité d’extension à d’autres régions géographiques ou cultures<br>
 👉 Base pour développer des solutions agritech basées sur l’IA, combinant machine learning et deep learning<br>
+</div>
 <br><br>
 
 
