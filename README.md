@@ -3,21 +3,17 @@
 
 Ingénieure Agroalimentaire & Data Scientist spécialisée dans la valorisation des données issues de l’agroalimentaire, du marketing et de la qualité.
 
-🎯 Objectif : aider les équipes R&D, Qualité et Marketing à transformer leurs données (verbatims, indicateurs, process) en informations utiles pour décider plus vite et mieux.
+Bienvenue sur mon portfolio GitHub.
+Vous trouverez ici plusieurs projets illustrant ma double compétence : ingénierie agroalimentaire et science des données.
+Mon objectif est de montrer comment la donnée - qu'elle provienne de capteurs, de commentaires consommateurs ou de documents techniques - peut devenir un levier stratégique pour les équipes R&D, Qualité et Marketing.
 
-💡 J’aime croiser le monde du produit et celui de la donnée : comprendre le besoin métier, concevoir des outils concrets et lisibles, et montrer que la data peut devenir un ingrédient d’innovation.
+## 🚀 Projets présentés 
+🔹 Évaluation du risque fournisseurs et matières premières
 
-## 🧩 Domaines de compétence
+Conception d'outils Excel permettant d'évaluer automatiquement les risques liés aux fournisseurs et aux matières premières
+→ Impact : Structuration des données qualité, automatisation des décisions, amélioration de la conformité IFS
+→ Projet emblématique de la synergie entre expertise qualité et analyse de données
 
-- Data Science & Machine Learning : nettoyage, modélisation, analyse prédictive
-
-- Traitement Automatique du Langage (NLP / LLM) : analyse de verbatims, classification sémantique
-
-- Data Visualisation & Reporting : dashboards interactifs (Shiny, Power BI), automatisation de rapports
-
-- Développement & Automatisation : R / Python / SQL / Git / AWS
-
-## 🚀 Projets présentés dans mon portfolio
 🔹 Automatisation de reporting
 
 Développement d’une application R Shiny générant automatiquement des rapports Word conformes au cahier des charges client  
@@ -30,10 +26,14 @@ Exploration de l’usage des modèles de langage (OpenAI, Gemini) pour annoter d
 
 🔹 [Cliquer ici pour voir les autres projets](https://emma-dcs.github.io/projets)
 
+## 🧠 Compétences mises en oeuvre
+→ Langages : R, Python, SQL, Excel
+→ Outils : R Shiny, Jupyter, Google Colab, Apps Script, Git
+→ IA & NLP : OpenAI GPT, Gemini, classification sémantique
+→ QUalité & Sécurité alimentaire : IFS, évaluation fournisseurs et matières premières, audits
+
 ## 📫 Me contacter
 
 📩 Email : emma.dacslv@gmail.com  
-🔗 Portfolio : https://emma-dcs.github.io/  
 💼 LinkedIn : https://www.linkedin.com/in/emma-d-352a37211
-
-💬 “La donnée est un ingrédient aussi stratégique que les matières premières — bien utilisée, elle améliore la qualité, accélère les décisions et révèle ce que vivent vraiment les consommateurs.”
+🔗 Portfolio : https://emma-dcs.github.io/ 
