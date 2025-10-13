@@ -17,9 +17,9 @@ Ces annotations servaient ensuite à générer des tableaux récapitulatifs pour
 
 # 🎯 Défi
 
-- Un processus trop long et coûteux<br>
-- Des erreurs d’interprétation fréquentes<br>
-- Une hétérogénéité dans la manière d’annoter et de créer les attributs d’un produit à l’autre<br>
+- Un processus trop long et coûteux<br><br>
+- Des erreurs d’interprétation fréquentes<br><br>
+- Une hétérogénéité dans la manière d’annoter et de créer les attributs d’un produit à l’autre<br><br>
 
 👉 Comment rendre ce processus plus rapide, plus fiable et standardisé ?
 
@@ -27,21 +27,21 @@ Ces annotations servaient ensuite à générer des tableaux récapitulatifs pour
 
 # ⚙️ Actions menées
 
-- Exploration de modèles d’IA générative : OpenAI GPT et Google Gemini<br>
-- Conception d’un prompt spécialisé pour guider l’IA dans la tâche d’annotation sensorielle<br>
+- Exploration de modèles d’IA générative : OpenAI GPT et Google Gemini<br><br>
+- Conception d’un prompt spécialisé pour guider l’IA dans la tâche d’annotation sensorielle<br><br>
 - Développement d’une application interne permettant :
     - de transmettre les données brutes,
     - d’apporter un contexte ou des ajustements métier,
-    - de modifier/valider les annotations proposées.<br>
+    - de modifier/valider les annotations proposées.<br><br>
 - Mise en place de métriques NLP pour évaluer les résultats
 
 <br><br>
 
 # ✅ Résultats obtenus
 
-- Gain de temps considérable sur le processus d’annotation<br>
-- Homogénéité dans l'annotation des commentaires et dans la réalisation des plan de code d'un produit à l'autre<br>
-- Meilleure reproductibilité grâce à une méthodologie structurée et validée par l’IA<br>
+- Gain de temps considérable sur le processus d’annotation<br><br>
+- Homogénéité dans l'annotation des commentaires et dans la réalisation des plan de code d'un produit à l'autre<br><br>
+- Meilleure reproductibilité grâce à une méthodologie structurée et validée par l’IA<br><br>
 
 Possibilité de transférer la méthode à d’autres types de retours clients (SAV, enquêtes, réseaux sociaux)
 

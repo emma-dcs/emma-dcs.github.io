@@ -16,25 +16,25 @@ L’objectif était de développer et tester une poignée haptique, capable de t
 
 # 🎯 Défi
 
-- Comparer l’efficacité de différents dispositifs ou algorithmes haptiques sur les trajectoires des utilisateurs<br>
-- Identifier les solutions permettant d’adapter la guidance tactile à chaque individu, afin de favoriser la mobilité autonome<br>
+- Comparer l’efficacité de différents dispositifs ou algorithmes haptiques sur les trajectoires des utilisateurs<br><br>
+- Identifier les solutions permettant d’adapter la guidance tactile à chaque individu, afin de favoriser la mobilité autonome<br><br>
 - Garantir la sécurité et la précision des utilisateurs à mobilité réduite
 
 <br><br>
 
 # ⚙️ Actions menées
 
-- Conception et suivi d’expérimentations pour recueillir des trajectoires de mouvement en 2D<br>
-- Analyse des trajectoires selon différents algorithmes haptiques : précision, fluidité, autonomie de l’utilisateur<br>
-- Développement de protocoles personnalisés basés sur les résultats : chaque utilisateur pouvait bénéficier d’un ajustement de la poignée selon ses besoins<br>
+- Conception et suivi d’expérimentations pour recueillir des trajectoires de mouvement en 2D<br><br>
+- Analyse des trajectoires selon différents algorithmes haptiques : précision, fluidité, autonomie de l’utilisateur<br><br>
+- Développement de protocoles personnalisés basés sur les résultats : chaque utilisateur pouvait bénéficier d’un ajustement de la poignée selon ses besoins<br><br>
 - Collaboration interdisciplinaire : interaction avec ingénieurs, ergothérapeutes et chercheurs
 
 <br><br>
 
 # ✅ Résultats obtenus
 
-- Comparaison des performances de différents algorithmes haptiques sur la mobilité des utilisateurs<br>
-- Mise en place d’un protocole de personnalisation de l’accompagnement tactile<br>
+- Comparaison des performances de différents algorithmes haptiques sur la mobilité des utilisateurs<br><br>
+- Mise en place d’un protocole de personnalisation de l’accompagnement tactile<br><br>
 - Différenciation des profils d'utilisateurs en fonction des pathologies
 
 <br><br>

@@ -37,8 +37,8 @@ Objectif : aider les agriculteurs à faire des choix éclairés sur les cultures
 
 # 🎯 Défi
 
-- Prédire les cultures les plus adaptées à partir des caractéristiques complexes des sols et du climat<br>
-- Gérer les interactions multiples entre variables (sol, météo, type de culture)<br>
+- Prédire les cultures les plus adaptées à partir des caractéristiques complexes des sols et du climat<br><br>
+- Gérer les interactions multiples entre variables (sol, météo, type de culture)<br><br>
 - Fournir un outil décisionnel utilisable par les agriculteurs pour optimiser rendement et durabilité<br>
 
 <br><br>
