@@ -17,6 +17,11 @@ Mon objectif : montrer concrètement comment un problème opérationnel peut se 
 </select>
 
 <div class="projets-container">
+    <a href="{{ site.baseurl }}/projet6" class="projet" data-service="C">
+    <h3 class="projet-titre">Projet 6 : Évaluation des risques fournisseurs et matières premières</h3>
+    <p class="projet-description">Comment transformer des fichiers Excel en outils décisionnels pour la gestion des risques qualité ?</p>
+    <span class="projet-lien">Découvrir le projet →</span>
+    </a>
     <a href="{{ site.baseurl }}/projet5" class="projet" data-service="D">
     <h3 class="projet-titre">Projet 5 : Création d’un chatbot pour faciliter la consultation de documents techniques</h3>
     <p class="projet-description">Comment rendre la recherche d’information instantanée et autonome pour vos équipes ?</p>

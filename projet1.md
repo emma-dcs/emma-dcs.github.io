@@ -24,11 +24,14 @@ title: 🌱 Projet 1. Aide à la décision pour le choix des cultures agricoles 
 
 # 🔎 Contexte
 <br>
+<div style="text-align: justify;">
 D’ici 2050, la population mondiale atteindra 9,1 milliards d’habitants, augmentant de 70 % les besoins alimentaires.
 Face à la réduction des terres agricoles due à l’urbanisation, l’agriculture de précision devient essentielle pour optimiser la production et gérer les ressources efficacement.<br>
 <br>
 Ce projet a été réalisé sur un jeu de données collecté en Inde : 2 200 observations incluant 6 variables physico-chimiques du sol, 1 variable météorologique et 1 variable sur le type de culture adaptée.<br>
 Objectif : aider les agriculteurs à faire des choix éclairés sur les cultures les mieux adaptées à leurs sols et conditions environnementales.
+</div>
+
 
 <br>
 
@@ -41,11 +44,13 @@ Objectif : aider les agriculteurs à faire des choix éclairés sur les cultures
 <br>
 
 # ⚙️ Actions menées
-
+<div style="text-align: justify;">
 - Développement de modèles de machine learning : régression, k-nearest neighbors (KNN), forêts aléatoires (Random Forests)
 - Sélection de variables via stepwise et élimination récursive (RFE) pour identifier les facteurs les plus influents
 - Évaluation de la performance des modèles (accuracy) et comparaison entre modèles complets et modèles sélectionnés
 - Application d’une classification ascendante hiérarchique pour prédire les cultures similaires et différencier celles aux besoins agronomiques proches
+</div>
+
 
 <br>
 

@@ -6,27 +6,33 @@ title: 🧾 Projet 6. Évaluation des risques fournisseurs et matières premièr
  
 # 🎯 Contexte
 <br>
+<div style="text-align: justify;">
 Les ingénieurs qualité en industrie agroalimentaire doivent assurer la conformité réglementaire et la sécurité alimentaire tout en gérant un grand volume d’informations issues des fournisseurs.<br>
 Les évaluations (fraude alimentaire, allergènes, contaminants, pesticides, traçabilité) sont souvent réalisées sous forme de fichiers hétérogènes et peu automatisés, rendant la mise à jour et l’analyse longues et fastidieuses.
+</div>
+
+
 <br>
 
 # ❓ Défi
 
 Comment standardiser et fiabiliser l’évaluation des fournisseurs et des matières premières, tout en simplifiant la prise de décision pour les responsables qualité ?
+
 <br>
 
 # ⚙️ Actions menées
 
-- Création de questionnaires Excel interactifs destinés aux fournisseurs de matières premières et d’emballages
+- Création de questionnaires Excel interactifs destinés aux fournisseurs de matières premières et d’emballages<br>
 → Collecte systématique des données réglementaires (allergènes, contaminants, pesticides…)<br>
 
-- Développement de fichiers Excel structurés et conditionnels, fonctionnant comme un arbre de décision :
+- Développement de fichiers Excel structurés et conditionnels, fonctionnant comme un arbre de décision :<br>
 → Évaluation automatique du niveau de risque des fournisseurs (faible, moyen, élevé)<br>
 
-- Conception d’un outil d’évaluation de l’authenticité des matières premières selon les exigences IFS
+- Conception d’un outil d’évaluation de l’authenticité des matières premières selon les exigences IFS<br>
 → Intégration de critères pondérés (origine, transformation, historique de fraude, etc.)<br>
 
 - Uniformisation et archivage des réponses pour faciliter les audits internes et les contrôles externes
+
 <br>
 
 # ✅ Résultats obtenus
@@ -38,6 +44,7 @@ Comment standardiser et fiabiliser l’évaluation des fournisseurs et des mati�
 - Amélioration de la traçabilité documentaire et de la conformité réglementaire
 
 - Démonstration d’une approche data-driven de la gestion qualité
+
 <br>
 
 # 💡 Compétences mobilisées
