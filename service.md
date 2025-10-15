@@ -8,7 +8,7 @@ title: 🌟 Services proposés
   <img src="assets/images/pdp.png" alt="Photo" style="width: 60px; height: 60px; border-radius: 50%;">
   <blockquote style="font-style: italic; margin: 0; text-align: justify;">
     “J’aide les équipes R&D, Qualité et Marketing à transformer leurs données en leviers d’action concrets :
-    gagner du temps, mieux comprendre les clients et innover plus rapidement.
+    gagner du temps, mieux comprendre les clients et innover plus rapidement.<br>
     Spécialisée en agroalimentaire, je conçois des solutions adaptées aux réalités du terrain.”
   </blockquote>
 </div>
