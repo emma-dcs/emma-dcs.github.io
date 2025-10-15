@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 🌱 Projet 1. Aide à la décision pour le choix des cultures agricoles (Projet d'étude)
+title: "🌱 Projet 1. Aide à la décision pour le choix des cultures agricoles <br>(Projet d'étude)"
 ---
 
 <div class="textecentre">
@@ -28,8 +28,8 @@ title: 🌱 Projet 1. Aide à la décision pour le choix des cultures agricoles 
 D’ici 2050, la population mondiale atteindra 9,1 milliards d’habitants, augmentant de 70 % les besoins alimentaires.
 Face à la réduction des terres agricoles due à l’urbanisation, l’agriculture de précision devient essentielle pour optimiser la production et gérer les ressources efficacement.<br>
 <br>
-Ce projet a été réalisé sur un jeu de données collecté en Inde : 2 200 observations incluant 6 variables physico-chimiques du sol, 1 variable météorologique et 1 variable sur le type de culture adaptée.<br>
-Objectif : aider les agriculteurs à faire des choix éclairés sur les cultures les mieux adaptées à leurs sols et conditions environnementales.
+Ce projet a été réalisé sur un jeu de données collectées en Inde : 2 200 observations incluant 6 variables physico-chimiques du sol, 1 variable météorologique et 1 variable sur le type de culture adaptée.<br>
+Objectif : aider les agriculteurs à faire des choix éclairés sur les cultures les mieux adaptées à leurs sols et aux conditions environnementales.
 </div>
 
 

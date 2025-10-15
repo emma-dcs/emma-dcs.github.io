@@ -27,7 +27,7 @@ Comment gagner en efficacité sans perdre en qualité ni en flexibilité ?
 
 # ⚙️ Actions menées
 
-- Développement d’une application R Shiny automatisant la génération de rapports Word (texte, tableaux, graphiques, images)<br><br>  
+- Développement d’une application R Shiny automatisant la génération de rapports Word (textes, tableaux, graphiques, images)<br><br>  
 - Export en format modifiable et personnalisable (Word) pour conserver la souplesse demandée par les équipes<br><br>  
 - Intégration de bonnes pratiques de développement : mise en place d'alertes visuelles<br><br>  
 

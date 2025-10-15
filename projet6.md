@@ -7,8 +7,8 @@ title: 🧾 Projet 6. Évaluation des risques fournisseurs et matières premièr
 # 🎯 Contexte
 <br>
 <div style="text-align: justify;">
-Les ingénieurs qualité en industrie agroalimentaire doivent assurer la conformité réglementaire et la sécurité alimentaire tout en gérant un grand volume d’informations issues des fournisseurs.<br>
-Les évaluations (fraude alimentaire, allergènes, contaminants, pesticides, traçabilité) sont souvent réalisées sous forme de fichiers hétérogènes et peu automatisés, rendant la mise à jour et l’analyse longues et fastidieuses.
+Les Ingénieurs Qualité en industrie agroalimentaire doivent assurer la conformité réglementaire et la sécurité alimentaire tout en gérant un grand volume d’informations issues des fournisseurs.<br>
+Les évaluations (fraude alimentaire, allergènes, contaminants, pesticides, traçabilité) sont souvent réalisées sous forme de fichiers hétérogènes et peu automatisés, rendant la tâche de mise à jour et d’analyse longue et fastidieuse.
 </div>
 
 
@@ -16,7 +16,7 @@ Les évaluations (fraude alimentaire, allergènes, contaminants, pesticides, tra
 
 # ❓ Défi
 
-Comment standardiser et fiabiliser l’évaluation des fournisseurs et des matières premières, tout en simplifiant la prise de décision pour les responsables qualité ?
+Comment standardiser et fiabiliser l’évaluation des fournisseurs et des matières premières, tout en simplifiant la prise de décision pour les Responsables Qualité ?
 
 <br><br>
 

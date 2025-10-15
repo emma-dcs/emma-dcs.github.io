@@ -7,8 +7,8 @@ title: Contact
 
 <div id="contact"></div>
 <div style="text-align: justify;">
-Vous avez un projet, une question ou souhaitez échanger sur vos besoins data ?<br>
-N’hésitez pas à me contacter par email, sur LinkedIn ou via le formulaire ci-dessous. Je serai ravie d’en discuter !
+Vous avez un projet, une question ou vous souhaitez échanger sur vos besoins data ?<br>
+N’hésitez pas à me contacter par email, sur LinkedIn ou via le formulaire ci-dessous. Je serais ravie d’en discuter !
 </div>
 
 

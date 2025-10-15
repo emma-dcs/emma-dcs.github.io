@@ -30,17 +30,17 @@ Ces annotations servaient ensuite à générer des tableaux récapitulatifs pour
 - Exploration de modèles d’IA générative : OpenAI GPT et Google Gemini<br><br>
 - Conception d’un prompt spécialisé pour guider l’IA dans la tâche d’annotation sensorielle<br><br>
 - Développement d’une application interne permettant :
-    - de transmettre les données brutes,
-    - d’apporter un contexte ou des ajustements métier,
-    - de modifier/valider les annotations proposées.<br><br>
+    - de transmettre les données brutes
+    - d’apporter un contexte ou des ajustements métier
+    - de modifier/valider les annotations proposées<br><br>
 - Mise en place de métriques NLP pour évaluer les résultats
 
 <br><br>
 
 # ✅ Résultats obtenus
 
-- Gain de temps considérable sur le processus d’annotation<br><br>
-- Homogénéité dans l'annotation des commentaires et dans la réalisation des plan de code d'un produit à l'autre<br><br>
+- Gain de temps considérable dans le processus d’annotation<br><br>
+- Homogénéité dans l'annotation des commentaires et dans la réalisation des plans de code d'un produit à l'autre<br><br>
 - Meilleure reproductibilité grâce à une méthodologie structurée et validée par l’IA<br><br>
 
 Possibilité de transférer la méthode à d’autres types de retours clients (SAV, enquêtes, réseaux sociaux)

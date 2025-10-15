@@ -25,7 +25,7 @@ Automatisez vos rapports récurrents (Excel, PDF, Word) pour gagner en fiabilit�
   
 <h1 style="text-align: center;">🗨️</h1>
 
-## B - Faites parler vos clients grâce à l'analyse de verbatims
+## B - Faîtes parler vos clients grâce à l'analyse de verbatims
 Transformez les milliers de retours consommateurs en informations stratégiques exploitables (enquêtes, avis en ligne, tests de produit...)
 
 **Livrables :**  

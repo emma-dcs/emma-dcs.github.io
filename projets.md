@@ -10,7 +10,7 @@ Mon objectif : montrer concrètement comment un problème opérationnel peut se 
 <select id="filtreService">
   <option value="all">Tous</option>
   <option value="A">A - Libérez du temps grâce à l'automatisation de vos rapports</option>
-  <option value="B">B - Faites parler vos clients grâce à l'analyse de verbatims</option>
+  <option value="B">B - Faîtes parler vos clients grâce à l'analyse de verbatims</option>
   <option value="C">C - Pilotez vos projets avec des dashboards interactifs</option>
   <option value="D">D - Offrez-vous une assistance intelligente grâce aux Chatbot ou à l'IA générative</option>
   <option value="E">E - Autre</option>
