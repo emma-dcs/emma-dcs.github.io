@@ -49,7 +49,10 @@ Projet transférable à d’autres secteurs (marketing, finance, qualité, R&D�
 👉 Amélioration de la satisfaction client grâce à des livrables plus rapides et plus fiables<br><br>
 👉 Standardisation des rapports, facilitant le suivi qualité et la comparaison des données
 
-<br>
+<br><br>
+<div class="btn-right">
+      <a href="{{ site.baseurl }}/contact" class="btn-contact" data-objet="Projet 4">Vous souhaitez ce type d'automatisation dans votre entreprise ?</a>
+    </div>
 <br><br>
 
 

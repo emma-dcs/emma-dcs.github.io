@@ -53,7 +53,11 @@ Possibilité de transférer la méthode à d’autres types de retours clients (
 👉 Une standardisation des analyses, utile pour le suivi produit dans la durée <br><br>
 👉 Moins de temps passé à “coder” les données, plus de temps pour les interpréter et agir
 
-<br><br><br>
+<br><br>
+<div class="btn-right">
+      <a href="{{ site.baseurl }}/contact" class="btn-contact" data-objet="Projet 3">Vous avez un projet similaire ?</a>
+    </div>
+<br><br>
 
 <div class="projet-navigation">
   <a href="{{ site.baseurl }}/projet2" class="prev-projet">⬅ Voir le projet 2 : Évaluation d’une poignée haptique pour l’aide à la mobilité</a>

@@ -31,10 +31,10 @@ title: 🌟 Services proposés
     </ul>
     <p>📈 <strong>Bénéfices :</strong> Gain de temps, fiabilité accrue, réduction des erreurs manuelles</p>
     <div class="btn-right">
-      <a href="{{ site.baseurl }}/contact" class="btn-contact">Demander un exemple de rapport automatisé</a>
+      <a href="{{ site.baseurl }}/contact" class="btn-contact" data-objet="Service A">Demander un exemple de rapport automatisé</a>
     </div>
   </div>
-  <br><br><br>
+  <br><br>
   <div class="service">
     <h1>🗨️</h1>
     <h2>B - Faîtes parler vos clients grâce à l'analyse de verbatims et aux enquêtes consommateurs</h2>
@@ -49,10 +49,10 @@ title: 🌟 Services proposés
     </ul>
     <p>📈 <strong>Bénéfices :</strong> Compréhension fine des attentes clients et prise de décision éclairée </p>
     <div class="btn-right">
-      <a href="{{ site.baseurl }}/contact" class="btn-contact">Demander un devis</a>
+      <a href="{{ site.baseurl }}/contact" class="btn-contact" data-objet="Service B">Demander un devis</a>
     </div>
   </div>
-  <br><br><br>
+  <br><br>
   <div class="service">
     <h1>📂</h1>
     <h2>C - Mettez de l’ordre dans vos fichiers et fiabilisez vos données</h2>
@@ -66,10 +66,10 @@ title: 🌟 Services proposés
     </ul>
     <p>📈 <strong>Bénéfices :</strong> Données fiables, traçabilité renforcée, préparation aux audits (IFS) simplifiée, autonomie des équipes </p>
     <div class="btn-right">
-      <a href="{{ site.baseurl }}/contact" class="btn-contact">Demander un cadrage gratuit</a>
+      <a href="{{ site.baseurl }}/contact" class="btn-contact" data-objet="Service C">Demander un cadrage gratuit</a>
     </div>
   </div>
-  <br><br><br>
+  <br><br>
   <div class="service">
     <h1>📊</h1>
     <h2>D - Pilotez vos projets avec des dashboards interactifs</h2>
@@ -82,10 +82,10 @@ title: 🌟 Services proposés
     </ul>
     <p>📈 <strong>Bénéfices :</strong> Décisions plus rapides, pilotage basé sur vos données, meilleure visibilité </p>
     <div class="btn-right">
-      <a href="{{ site.baseurl }}/contact" class="btn-contact">Découvrir des exemples de dashboards</a>
+      <a href="{{ site.baseurl }}/contact" class="btn-contact" data-objet="Service D">Découvrir des exemples de dashboards</a>
     </div>
   </div>
-  <br><br><br>
+  <br><br>
   <div class="service">
     <h1>🎯</h1>
     <h2>E - Offrez-vous une assistance intelligente grâce aux Chatbot ou à l'IA générative</h2>
@@ -98,13 +98,15 @@ title: 🌟 Services proposés
     </ul>
     <p>📈 <strong>Bénéfices :</strong> Amélioration de l'expérience utilisateur, réduction du temps de support, accès rapide à l'information </p>
     <div class="btn-right">
-      <a href="{{ site.baseurl }}/contact" class="btn-contact">Prototyper mon chatbot interne</a>
+      <a href="{{ site.baseurl }}/contact" class="btn-contact" data-objet="Service E">Prototyper mon chatbot interne</a>
     </div>
   </div>
-  <br><br><br>
+  <br><br>
   <div class="service">
     <h1>👥</h1>
     <h2>F - Vous avez un autre projet ? Parlons-en !</h2>
-    <a href="{{ site.baseurl }}/contact" class="btn-contact">Planifier un échange</a>
+    <div class="btn-right">
+      <a href="{{ site.baseurl }}/contact" class="btn-contact" data-objet="Service F">Planifier un échange</a>
+    </div>
   </div>
 </div>
