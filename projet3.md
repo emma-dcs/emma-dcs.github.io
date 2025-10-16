@@ -39,7 +39,7 @@ Ces annotations servaient ensuite à générer des tableaux récapitulatifs pour
 
 # ✅ Résultats obtenus
 
-- Gain de temps considérable dans le processus d’annotation<br><br>
+- Gain de temps considérable dans le processus d’annotation : de 1 heure à moins de 20 minutes<br><br>
 - Homogénéité dans l'annotation des commentaires et dans la réalisation des plans de code d'un produit à l'autre<br><br>
 - Meilleure reproductibilité grâce à une méthodologie structurée et validée par l’IA<br><br>
 

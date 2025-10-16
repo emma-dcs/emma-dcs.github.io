@@ -33,13 +33,15 @@ Automatisez vos rapports récurrents (Excel, PDF, Word) pour gagner en fiabilit�
   
 <h1 style="text-align: center;">🗨️</h1>
 
-## B - Faîtes parler vos clients grâce à l'analyse de verbatims
+## B - Faîtes parler vos clients grâce à l'analyse de verbatims et aux enquêtes consommateurs
+Concevez vos questionnaires avec méthodologie<br>
 Transformez les milliers de retours consommateurs en informations stratégiques exploitables (enquêtes, avis en ligne, tests de produit...)
 
 **Livrables :**  
+- Conception de questionnaires adaptés à la cible
 - Synthèse des thèmes récurrents et des signaux faibles  
 - Détection des sentiments et tendances clés  
-- Clustering sémantique et visualisation interactive  
+- visualisation interactive et clustering sémantique  
 
 📈 **Bénéfices :** Compréhension fine des attentes clients et prise de décision éclairée  
   

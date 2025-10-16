@@ -35,9 +35,9 @@ Comment gagner en efficacité sans perdre en qualité ni en flexibilité ?
 
 # ✅ Résultats obtenus
 
-- Temps de production divisé par 4<br><br>  
-- Réduction des erreurs liées aux copier-coller et meilleure reproductibilité<br><br>  
-- Autonomie des équipes : interface intuitive, peu de formation nécessaire<br><br>  
+- Temps de production divisé par 4 : passage de 2 heures à 30 minutes par rapport<br><br>  
+- Réduction de 90% des erreurs liées aux copier-coller et meilleure reproductibilité<br><br>  
+- Autonomie des équipes à 100% : interface intuitive, peu de formation nécessaire<br><br>  
 
 Projet transférable à d’autres secteurs (marketing, finance, qualité, R&D…)
 
