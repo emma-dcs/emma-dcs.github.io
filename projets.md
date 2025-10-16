@@ -11,9 +11,10 @@ Mon objectif : montrer concrètement comment un problème opérationnel peut se 
   <option value="all">Tous</option>
   <option value="A">A - Libérez du temps grâce à l'automatisation de vos rapports</option>
   <option value="B">B - Faîtes parler vos clients grâce à l'analyse de verbatims</option>
-  <option value="C">C - Pilotez vos projets avec des dashboards interactifs</option>
-  <option value="D">D - Offrez-vous une assistance intelligente grâce aux Chatbot ou à l'IA générative</option>
-  <option value="E">E - Autre</option>
+  <option value="C">C - Mettez de l’ordre dans vos fichiers et fiabilisez vos données</option>
+  <option value="D">D - Pilotez vos projets avec des dashboards interactifs</option>
+  <option value="E">E - Offrez-vous une assistance intelligente grâce aux Chatbot ou à l'IA générative</option>
+  <option value="F">F - Autre</option>
 </select>
 
 <div class="projets-container">
@@ -22,7 +23,7 @@ Mon objectif : montrer concrètement comment un problème opérationnel peut se 
     <p class="projet-description">Comment transformer des fichiers Excel en outils décisionnels pour la gestion des risques qualité ?</p>
     <span class="projet-lien">Découvrir le projet →</span>
     </a>
-    <a href="{{ site.baseurl }}/projet5" class="projet" data-service="D">
+    <a href="{{ site.baseurl }}/projet5" class="projet" data-service="E">
     <h3 class="projet-titre">Projet 5 : Création d’un chatbot pour faciliter la consultation de documents techniques</h3>
     <p class="projet-description">Comment rendre la recherche d’information instantanée et autonome pour vos équipes ?</p>
     <span class="projet-lien">Découvrir le projet →</span>
@@ -39,13 +40,13 @@ Mon objectif : montrer concrètement comment un problème opérationnel peut se 
     <img src="{{ site.baseurl }}/assets/images/projet3.png" alt="Projet 3" class="projet-image">
     <span class="projet-lien">Découvrir le projet →</span>
     </a>
-    <a href="{{ site.baseurl }}/projet2" class="projet" data-service="E">
+    <a href="{{ site.baseurl }}/projet2" class="projet" data-service="F">
     <h3 class="projet-titre">Projet 2 : Évaluation d’une poignée haptique pour l’aide à la mobilité (Santé/Médecine)</h3>
     <p class="projet-description">Comment permettre aux personnes en situation de handicap de s'orienter et se déplacer de façon autonome ?</p>
     <img src="{{ site.baseurl }}/assets/images/projet2.png" alt="Projet 2" class="projet-image">
     <span class="projet-lien">Découvrir le projet →</span>
     </a>
-    <a href="{{ site.baseurl }}/projet1" class="projet" data-service="E">
+    <a href="{{ site.baseurl }}/projet1" class="projet" data-service="F">
     <h3 class="projet-titre">Projet 1 : Aide à la décision pour le choix des cultures agricoles (Projet d'étude)</h3>
     <p class="projet-description">Comment adapter les cultures aux caractéristiques physico-chimiques des sols ?</p>
     <img src="{{ site.baseurl }}/assets/images/projet1.png" alt="Projet 1" class="projet-image">

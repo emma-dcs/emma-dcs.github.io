@@ -44,29 +44,44 @@ Transformez les milliers de retours consommateurs en informations stratégiques 
 📈 **Bénéfices :** Compréhension fine des attentes clients et prise de décision éclairée  
   
 <br><br><br>
+
+<h1 style="text-align: center;">📂</h1>
+
+## C - Mettez de l’ordre dans vos fichiers et fiabilisez vos données
+Audit, nettoyage et structuration de vos fichiers Excel pour les rendre plus clairs, plus fiables et plus utiles 
+
+**Livrables :**  
+- Audit complet des fichiers existants (qualité, production, fournisseurs, traçabilité...)
+- Refonte des fichiers en outils pratiques : tableaux dynamiques, automatisations, indicateurs...
+- Regroupement des données importantes dans un seul fichier cohérent
+- Formation courte à l'utilisation et la maintenance des nouveaux outils  
+
+📈 **Bénéfices :** Données fiables, traçabilité renforcée, préparation aux audits (IFS) simplifiée, autonomie des équipes
+  
+<br><br><br>
   
 <h1 style="text-align: center;">📊</h1>
 
-## C - Pilotez vos projets avec des dashboards interactifs
-Suivez vos KPI en temps réel avec des tableaux de bord sur-mesure  
+## D - Pilotez vos projets avec des dashboards interactifs
+Visualisez vos indicateurs clés (Qualité, R&D, Marketing, Production) en temps réel avec des tableaux de bord sur-mesure  
 
 **Livrables :**  
 - Dashboards personnalisés connectés à vos bases de données (fichiers Excel)  
-- Suivi interactif des indicateurs Qualité, R&D ou Marketing  
+- Suivi interactif des indicateurs prioritaires (KPI)
 - Interface intuitive pour vos équipes métier  
 
-📈 **Bénéfices :** Décisions plus rapides, pilotage basé sur les données, visibilité complète  
+📈 **Bénéfices :** Décisions plus rapides, pilotage basé sur vos données, meilleure visibilité   
   
 <br><br><br>
   
 <h1 style="text-align: center;">🎯</h1>
 
-## D - Offrez-vous une assistance intelligente grâce aux Chatbot ou à l'IA générative
-Intégrez des modèles type GPT pour automatiser le traitement des verbatims, la recherche documentaire...  
+## E - Offrez-vous une assistance intelligente grâce aux Chatbot ou à l'IA générative
+Intégrez des modèles type GPT pour automatiser la recherche documentaire, la synthèse ou le traitement des verbatims...  
 
 **Livrables :**  
 - Prototype de chatbot spécialisé sur vos documents internes ou retours consommateurs  
-- Documentation et intégration simple (API, interface web)  
+- Documentation claire et intégration simple (API, interface web) 
 - Personnalisation selon vos besoins métier  
 
 📈 **Bénéfices :** Amélioration de l'expérience utilisateur, réduction du temps de support, accès rapide à l'information
@@ -75,5 +90,5 @@ Intégrez des modèles type GPT pour automatiser le traitement des verbatims, la
   
 <h1 style="text-align: center;">👥</h1>
 
-## E - Vous avez un autre projet ? Parlons-en !
+## F - Vous avez un autre projet ? Parlons-en !
 <a href="{{ site.baseurl }}/contact" class="btn-contact">Me contacter</a>
