@@ -23,24 +23,10 @@ N’hésitez pas à me contacter par email, sur LinkedIn ou via le formulaire ci
         Suivre sur LinkedIn : https://www.linkedin.com/in/emma-d-352a37211
     </a>
     <br>
-    <!-- Google Calendar Appointment Scheduling begin -->
-    <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
-    <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
-    <script>
-    (function() {
-      var target = document.currentScript;
-      window.addEventListener('load', function() {
-        calendar.schedulingButton.load({
-          url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ2seoerflEhyrPpgdxwN6z30CzVbFsRCcVPzRnVprC0Qt5ZxnR_L_NkdYhzomgMX7Pavmom9TKF?gv=true',
-          color: '#7bae7f',
-          textColor: '#FFFFFF',
-          label: 'Réserver un rendez-vous',
-          target,
-        });
-      });
-    })();
-    </script>
-    <!-- end Google Calendar Appointment Scheduling -->
+    <a class="btn-github" href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ2seoerflEhyrPpgdxwN6z30CzVbFsRCcVPzRnVprC0Qt5ZxnR_L_NkdYhzomgMX7Pavmom9TKF?gv=true"
+    target="_blank"> 
+        📅 Réserver un rendez-vous
+    </a>
 </div>
 
          
