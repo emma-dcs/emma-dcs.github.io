@@ -49,6 +49,11 @@ N’hésitez pas à me contacter par email, sur LinkedIn ou via le formulaire ci
   <label for="message">Message</label>
   <textarea id="message" name="message" placeholder="" rows="5" required></textarea>
 
+  <label>
+  <input type="checkbox" name="consent" required>
+  J'accepte que mes données soient traitées conformément à la politique de confidentialité.
+  </label>
+
   <button type="submit">Envoyer</button>
 </form>
 
