@@ -256,6 +256,17 @@ main {
   text-decoration: none;        /* évite le soulignement */
 }
 
+google-scheduling-button::part(button) {
+  background-color: #7BAE7F; 
+  color: white;              
+  transition: background-color 0.3s ease;
+}
+
+google-scheduling-button::part(button):hover {
+  background-color: #5a7a4f; 
+}
+
+
 .textecentre {
   text-align: center;  /* centre tout le contenu */
   margin-top: 40px;

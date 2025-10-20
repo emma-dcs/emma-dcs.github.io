@@ -17,11 +17,30 @@ N’hésitez pas à me contacter par email, sur LinkedIn ou via le formulaire ci
     <a href="mailto:emma.dacslv@gmail.com" class="badge-mail">
         ✉️ Contacter par mail : emma.dacslv@gmail.com
     </a>
-    <br><br>
+    <br>
     <!-- Bouton Suivre sur LinkedIn -->
     <a class="btn-github" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=emma-d-352a37211" target="_blank">
         Suivre sur LinkedIn : https://www.linkedin.com/in/emma-d-352a37211
     </a>
+    <br>
+    <!-- Google Calendar Appointment Scheduling begin -->
+    <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+    <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+    <script>
+    (function() {
+      var target = document.currentScript;
+      window.addEventListener('load', function() {
+        calendar.schedulingButton.load({
+          url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ2seoerflEhyrPpgdxwN6z30CzVbFsRCcVPzRnVprC0Qt5ZxnR_L_NkdYhzomgMX7Pavmom9TKF?gv=true',
+          color: '#7bae7f',
+          textColor: '#FFFFFF',
+          label: 'Réserver un rendez-vous',
+          target,
+        });
+      });
+    })();
+    </script>
+    <!-- end Google Calendar Appointment Scheduling -->
 </div>
 
          
