@@ -1,7 +1,7 @@
 # Mon portfolio
 👋 Bonjour, je suis Emma
 
-Ingénieure Agroalimentaire & Data Scientist spécialisée dans la valorisation des données issues de l’agroalimentaire, du marketing et de la qualité.  
+Ingénieure Agroalimentaire & Data Scientist spécialisée dans la valorisation des données issues de l’agroalimentaire, R&D, Qualité et Marketing.  
 
 Bienvenue sur mon portfolio GitHub.  
 Vous trouverez ici plusieurs projets illustrant ma double compétence : ingénierie agroalimentaire et science des données.  
