@@ -10,9 +10,9 @@ Mon objectif est de montrer comment la donnée - qu'elle provienne de capteurs, 
 ## 🚀 Projets présentés 
 🔹 Évaluation du risque fournisseurs et matières premières
 
-Conception d'outils Excel permettant d'évaluer automatiquement les risques liés aux fournisseurs et aux matières premières
-→ Impact : Structuration des données qualité, automatisation des décisions, amélioration de la conformité IFS
-→ Projet emblématique de la synergie entre expertise qualité et analyse de données
+Conception d'outils Excel permettant d'évaluer automatiquement les risques liés aux fournisseurs et aux matières premières  
+→ Impact : Structuration des données qualité, automatisation des décisions, amélioration de la conformité IFS  
+→ Projet emblématique de la synergie entre expertise qualité et analyse de données  
 
 🔹 Automatisation de reporting
 
@@ -27,10 +27,10 @@ Exploration de l’usage des modèles de langage (OpenAI, Gemini) pour annoter d
 🔹 [Cliquer ici pour voir les autres projets](https://emma-dcs.github.io/projets)
 
 ## 🧠 Compétences mises en oeuvre
-→ Langages : R, Python, SQL, Excel
-→ Outils : R Shiny, Jupyter, Google Colab, Apps Script, Git
-→ IA & NLP : OpenAI GPT, Gemini, classification sémantique
-→ QUalité & Sécurité alimentaire : IFS, évaluation fournisseurs et matières premières, audits
+→ Langages : R, Python, SQL, Excel  
+→ Outils : R Shiny, Jupyter, Google Colab, Apps Script, Git  
+→ IA & NLP : OpenAI GPT, Gemini, classification sémantique  
+→ Qualité & Sécurité alimentaire : IFS, évaluation fournisseurs et matières premières, audits
 
 ## 📫 Me contacter
 
