@@ -713,7 +713,7 @@ align-items: center;
 }
 
 .contact-info h1 {
-  line-height: 1.6;
+  font-size: 1.5rem;
   color: var(--brun-fonce);
 }
 
@@ -907,8 +907,8 @@ align-items: center;
 
 /* Pour l'image dans le logo */
 .logo img {
-  width: 20px;  /* largeur souhaitée */
-  height: auto;  /* conserve les proportions */
+  width: 50px;  
+  height: auto;  
 }
 
 /* Pour l'autre image */
@@ -924,7 +924,6 @@ img[src="assets/images/pdp.png"] {
 
 /* Petites tablettes et téléphones */
 @media (max-width: 768px) {
-
   /* HEADER */
   .header-container {
     flex-direction: column;
@@ -933,13 +932,15 @@ img[src="assets/images/pdp.png"] {
   }
 
   .logo {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     margin-bottom: 0.5rem;
   }
 
   .nav-links {
     flex-direction: column;
     gap: 1rem;
+    width: 100%;
+    align-items: flex-start;
   }
 
   .nav-links a {
@@ -947,7 +948,9 @@ img[src="assets/images/pdp.png"] {
   }
 
   .btn {
-    padding: 0.5rem 1rem;
+    align-self: center;
+    margin-top: 1rem;
+    padding: 0.6rem 1rem;
     font-size: 0.9rem;
   }
 }
@@ -957,10 +960,62 @@ img[src="assets/images/pdp.png"] {
 @media (max-width: 768px) {
 
   /* SECTION "À propos" */
-  .skills-grid {
-    grid-template-columns: 1fr;
+ .skills-grid {
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+   gap: 2rem;
+   align-items: start; /* important pour que les cartes ne s'étirent pas toutes à la même hauteur */
+ }
+
+ .skill-card {
+   background-color: var(--rose);
+   color: var(--brun-fonce);
+   border-radius: 10px;
+   padding: 2rem;
+   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+   transition: transform 0.3s, box-shadow 0.3s;
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-start;
+   align-items: center;
+   text-align: center;
+
+   /* on supprime la hauteur fixe ! */
+   height: auto;
+ }
+}
+
+/* ==========================
+Responsive – Section Projets
+========================== */
+@media (max-width: 1024px) {
+  .projects-grid-ac {
+    grid-template-columns: repeat(2, 1fr); /* 2 colonnes sur tablette */
+    gap: 1rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .projects-grid-ac {
+    grid-template-columns: 1fr; /* 1 colonne sur téléphone */
+    gap: 1.5rem;
   }
 
+  .project-card-ac {
+    padding: 1.5rem;
+    text-align: center;
+  }
+
+  .home-projects h2 {
+    font-size: 2rem;
+  }
+
+  .home-projects pa {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 768px) {
   /* SECTION "Services" */
   .intro-content {
     flex-direction: column;
@@ -1024,7 +1079,7 @@ img[src="assets/images/pdp.png"] {
   }
 
   .hero-content h2 {
-    font-size: 2rem;
+    font-size: 1.8rem;
   }
 
   .hero-content p {
@@ -1032,3 +1087,85 @@ img[src="assets/images/pdp.png"] {
   }
 }
 
+/* ==========================
+   SECTION SERVICES LISTE
+========================== */
+@media (max-width: 768px) {
+ .services-list .container {
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+   gap: 2.5rem;
+   align-items: start;
+ }
+
+ /* Cartes */
+ .service-item {
+   background-color: var(--rose);
+   color: var(--brun-fonce);
+   border-radius: 12px;
+   padding: 2rem;
+   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+   transition: transform 0.3s, box-shadow 0.3s;
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-start;
+   text-align: left;
+   height: auto;
+ }
+
+ .service-item:hover {
+   transform: translateY(-5px);
+   box-shadow: 0 6px 15px rgba(0, 0, 0, 0.25);
+ }
+
+ .service-item h2 {
+   margin-bottom: 1rem;
+   font-size: 1.4rem;
+   line-height: 1.4;
+ }
+
+ .service-item p,
+ .service-item ul {
+   margin-bottom: 1rem;
+ }
+
+ .service-item ul {
+   padding-left: 1.2rem;
+ }
+
+ .service-item li {
+   margin-bottom: 0.5rem;
+ }
+
+ .btn-right {
+   align-self: flex-start;
+   margin-top: auto;
+ }
+}
+
+/* ==========================
+   RESPONSIVE DESIGN
+========================== */
+
+/* Tablettes */
+@media (max-width: 1024px) {
+  .services-list .container {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  }
+}
+
+/* Mobiles */
+@media (max-width: 768px) {
+  .services-list .container {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .service-item {
+    padding: 1.5rem;
+  }
+
+  .service-item h2 {
+    font-size: 1.2rem;
+  }
+}
