@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Projet 3 – Annotation automatique des retours consommateurs avec l’IA</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Merriweather:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header>
+    <div class="container header-container">
+      <h1 class="logo"><img src="assets/images/favicon.png" alt="Photo"></h1>
+
+      <div class="menu-btn">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+
+      <nav>
+        <ul class="nav-links">
+          <li><a href="index.html">Accueil</a></li>
+          <li><a href="about.html">À propos</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="projects.html" class="active">Projets</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+
+      <a href="contact.html" class="btn">Me contacter</a>
+    </div>
+  </header>
+
+  <!-- SECTION PROJET DETAIL -->
+  <section class="project-detail">
+    <div class="container textecentre">
+      <h2>🤖 Projet 3. Annotation automatique des retours consommateurs avec l’IA</h2>
+
+      <hr>
+
+      <h3>🔎 Contexte</h3>
+      <div style="text-align: justify;">
+        Lors d’études sensorielles, l’entreprise collectait des centaines de commentaires consommateurs sur des produits très variés (goût, texture…).<br>
+        Chaque commentaire devait être annoté manuellement afin de construire un plan de code : une liste d’attributs sensoriels reflétant ce qui plaît et ce qui déplaît aux consommateurs.<br>
+        Ces annotations servaient ensuite à générer des tableaux récapitulatifs pour orienter R&D et marketing.
+      </div><br>
+
+      <h3>🎯 Défi</h3>
+      <ul>
+        <li>Un processus trop long et coûteux</li><br>
+        <li>Des erreurs d’interprétation fréquentes</li><br>
+        <li>Une hétérogénéité dans la manière d’annoter et de créer les attributs d’un produit à l’autre</li><br>
+      </ul>
+      <div style="text-align:center; font-weight:500;">👉 Comment rendre ce processus plus rapide, plus fiable et standardisé ?</div><br>
+
+      <h3>⚙️ Actions menées</h3>
+      <div style="text-align: justify;">
+        - Exploration de modèles d’IA générative : OpenAI GPT et Google Gemini<br><br>
+        - Conception d’un prompt spécialisé pour guider l’IA dans la tâche d’annotation sensorielle<br><br>
+        - Développement d’une application interne permettant :<br>
+        <ul style="text-align:left; display:inline-block;">
+          <li>de transmettre les données brutes</li>
+          <li>d’apporter un contexte ou des ajustements métier</li>
+          <li>de modifier/valider les annotations proposées</li>
+        </ul><br>
+        - Mise en place de métriques NLP pour évaluer les résultats
+      </div><br>
+
+      <h3>✅ Résultats obtenus</h3>
+      <div style="text-align: justify;">
+        - Gain de temps considérable dans le processus d’annotation : de 1 heure à moins de 20 minutes<br><br>
+        - Homogénéité dans l'annotation des commentaires et dans la réalisation des plans de code d'un produit à l'autre<br><br>
+        - Meilleure reproductibilité grâce à une méthodologie structurée et validée par l’IA<br><br>
+        Possibilité de transférer la méthode à d’autres types de retours clients (SAV, enquêtes, réseaux sociaux)
+      </div><br>
+
+      <h3>💡 Valeur ajoutée business</h3>
+      <div style="text-align: justify;">
+        👉 Des insights consommateurs obtenus plus rapidement <br><br>
+        👉 Une standardisation des analyses, utile pour le suivi produit dans la durée <br><br>
+        👉 Moins de temps passé à “coder” les données, plus de temps pour les interpréter et agir
+      </div><br>
+
+      <div class="center-block">
+        <a href="contact.html" class="btn-github" data-objet="Projet 3">
+          📩 Vous avez un projet similaire ?
+        </a>
+      </div><br>
+
+      <div class="projet-navigation">
+        <a href="projet2.html" class="prev-projet">⬅ Voir le projet 2 : Évaluation d’une poignée haptique pour l’aide à la mobilité</a>
+        <a href="projet4.html" class="next-projet">Voir le projet 4 : Automatisation du reporting ➡</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="container">
+      <pa>© 2025 DAgroCoStat — Tous droits réservés</pa><br><br>
+      <pa><a href="contact.html">Me contacter</a> | <a href="mentions.html">Mentions légales</a></pa>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
