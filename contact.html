@@ -42,7 +42,7 @@
 
       <div class="contact-grid">
         <!-- Formulaire -->
-        <form action="https://formsubmit.co/25f8342e7ed18e484f8a024826d9583f" method="POST" class="contact-form">
+       <form action="https://formsubmit.co/emma.dacslv@gmail.com" method="POST" class="contact-form">
           <label for="name">Prénom NOM</label>
           <input type="text" id="name" name="name" required placeholder="">
 	
@@ -50,24 +50,20 @@
           <input type="text" id="entreprise" name="entreprise" placeholder="" required>
 
           <label for="service">Service ou Fonction</label>
-          <input type="service" id="service" name="service" placeholder="" required>
-
+          <input type="text" id="service" name="service" placeholder="" required>
+          
           <label for="email">Adresse e-mail</label>
           <input type="email" id="email" name="email" required placeholder="">
-	  
-	        <input type="hidden" id="objet" name="objet" value="">
-
+          
           <label for="subject">Objet</label>
           <input type="text" id="subject" name="subject" placeholder="">
-
+          
           <label for="message">Message</label>
           <textarea id="message" name="message" rows="6" required placeholder=""></textarea>
-
-          <label>
+          
+          <label>En soumettant ce formulaire, vous autorisez DAgroCoStat à utiliser vos données pour vous recontacter</label>
           <input type="checkbox" name="consent" required>
-          En soumettant ce formulaire, vous autorisez DAgroCoStat à utiliser vos données pour vous recontacter
-          </label>
-
+          <input type="hidden" id="objet" name="objet" value="">
           <button type="submit" class="btn">Envoyer</button>
         </form>
 

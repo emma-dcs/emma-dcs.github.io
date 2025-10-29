@@ -894,6 +894,24 @@ align-items: center;
   }
 }
 
+#filtreService {
+  width: 100%;                /* prend toute la largeur dispo */
+  max-width: 400px;           /* limite la largeur sur grand écran */
+  font-size: 0.9rem;          /* texte un peu plus petit */
+  white-space: normal;        /* autorise les retours automatiques */
+  word-wrap: break-word;      /* force les retours de ligne */
+  padding: 0.6rem;
+  border-radius: 8px;
+}
+
+/* Ajustement mobile */
+@media (max-width: 768px) {
+  #filtreService {
+    font-size: 0.85rem;
+    max-width: 100%;
+  }
+}
+
 .center-block {
   text-align: center;
   margin: 2rem 0;
@@ -907,7 +925,7 @@ align-items: center;
 
 /* Pour l'image dans le logo */
 .logo img {
-  width: 50px;  
+  width: 70px;  
   height: auto;  
 }
 
@@ -1090,57 +1108,57 @@ Responsive – Section Projets
 /* ==========================
    SECTION SERVICES LISTE
 ========================== */
-@media (max-width: 768px) {
- .services-list .container {
-   display: grid;
-   grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-   gap: 2.5rem;
-   align-items: start;
- }
+@media (max-width: 1024px) {
 
- /* Cartes */
- .service-item {
-   background-color: var(--rose);
-   color: var(--brun-fonce);
-   border-radius: 12px;
-   padding: 2rem;
-   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-   transition: transform 0.3s, box-shadow 0.3s;
-   display: flex;
-   flex-direction: column;
-   justify-content: flex-start;
-   text-align: left;
-   height: auto;
- }
+  .services-list .container {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: stretch;
+  }
 
- .service-item:hover {
-   transform: translateY(-5px);
-   box-shadow: 0 6px 15px rgba(0, 0, 0, 0.25);
- }
+  .service-item {
+    transform: none !important; 
+    margin: 0;                 
+    width: 100%;
+    height: auto;             
+  }
+  
+  .service-item:nth-child(1),
+  .service-item:nth-child(3),
+  .service-item:nth-child(5) {
+    background-color: var(--rose);
+    color: var(--brun-fonce);
+  }
 
- .service-item h2 {
-   margin-bottom: 1rem;
-   font-size: 1.4rem;
-   line-height: 1.4;
- }
+  .service-item:nth-child(2),
+  .service-item:nth-child(4),
+  .service-item:nth-child(7) {
+    background-color: var(--brun-fonce);
+    color: white;
+  }
+  
+  .service-item:nth-child(3) .btn-right {
+    background-color: var(--brun-fonce);
+  }
 
- .service-item p,
- .service-item ul {
-   margin-bottom: 1rem;
- }
+  .service-item:nth-child(4) .btn-right {
+    background-color: var(--rose);
+  }
 
- .service-item ul {
-   padding-left: 1.2rem;
- }
+  .service-item:nth-child(1) .btn-right:hover,
+  .service-item:nth-child(3) .btn-right:hover,
+  .service-item:nth-child(5) .btn-right:hover {
+  background-color: var(--brun-fonce);
+  color: var(--rose);
+  }
 
- .service-item li {
-   margin-bottom: 0.5rem;
- }
-
- .btn-right {
-   align-self: flex-start;
-   margin-top: auto;
- }
+  .service-item:nth-child(2) .btn-right:hover,
+  .service-item:nth-child(4) .btn-right:hover,
+  .service-item:nth-child(7) .btn-right:hover {
+  background-color: var(--rose);
+  color: var(--brun-fonce);
+  }
 }
 
 /* ==========================
@@ -1167,5 +1185,51 @@ Responsive – Section Projets
 
   .service-item h2 {
     font-size: 1.2rem;
+  }
+}
+
+/* ==========================
+   PAGE A PROPOS
+========================== */
+
+@media (max-width: 1024px) {
+
+  /* Grille des compétences : une seule colonne */
+  .skills-grid {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 1.5rem;
+  }
+
+  .skill-card {
+    width: 100%;
+    height: auto;
+    transform: none !important;
+  }
+
+  /* Image du CV : plus petite que la largeur de l’écran */
+  #cv {
+    width: 90%;         /* occupe 90 % de la largeur visible */
+    max-width: 400px;   /* limite la taille sur tablette */
+    height: auto;
+  }
+
+  /* Ajustement des titres et textes pour plus de lisibilité */
+  .about-skills h2,
+  .about-cv h2 {
+    font-size: 2.2rem;
+  }
+
+  .about-intro p {
+    font-size: 1rem;
+    text-align: justify;
+  }
+
+  /* Espacement général un peu réduit */
+  .about-intro,
+  .about-skills,
+  .about-cv {
+    padding: 2rem 1rem;
   }
 }
