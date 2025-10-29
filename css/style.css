@@ -709,6 +709,11 @@ align-items: center;
   text-align: left;
 }
 
+.contact-info h1 {
+  line-height: 1.6;
+  color: var(--brun-fonce);
+}
+
 .contact-info h3 {
   color: var(--brun-fonce);
   margin-bottom: 1rem;
@@ -899,12 +904,12 @@ align-items: center;
 
 /* Pour l'image dans le logo */
 .logo img {
-  width: 8px;  /* largeur souhaitée */
+  width: 20px;  /* largeur souhaitée */
   height: auto;  /* conserve les proportions */
 }
 
 /* Pour l'autre image */
 img[src="assets/images/pdp.png"] {
-  width: 60px;  /* largeur souhaitée */
-  height: auto;  /* conserve les proportions */
+  width: 80px;
+  height: auto;
 }
