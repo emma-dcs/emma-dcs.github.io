@@ -170,21 +170,33 @@ header {
   text-align: center;
 }
 
-.home-services h2,
-.home-projects h2 {
+.home-services h2, 
+.home-services h3,
+.home-projects h2,
+.project-card-ac h3 {
   color: var(--couleur-principale);
 }
 
-.services-grid,
-.projects-grid {
+.services-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 2rem;
   margin: 2rem 0;
 }
 
+.projects-grid-ac {
+  height: auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 colonnes égales */
+  gap: 1.5rem; /* espace entre cartes */
+  margin: 2rem 0;
+ justify-content: flex-start;
+  
+}
+
+
 .service-card,
-.project-card {
+.project-card-ac {
   background-color: var(--rose);
   color: var(--brun-fonce);
   border-radius: 10px;
@@ -198,7 +210,7 @@ header {
   align-items: center;
   text-align: center;
 
-  height: 250px;
+  height: auto;
 }
 
 .service-card:hover,
@@ -291,7 +303,7 @@ align-items: center;
 .skill-card:hover {
   transform: translateY(-5px);
   background-color: var(--couleur-principale);
-  color: var(--blanc);
+  color: var(--rose);
 }
 
 .skill-card h3 {
@@ -626,7 +638,7 @@ align-items: center;
    PAGE CONTACT
 ========================== */
 .contact-main {
-  background-color: var(--jaune-clair);
+  background-color: white;
   padding: 4rem 2rem;
   text-align: center;
 }
@@ -690,20 +702,20 @@ align-items: center;
 }
 
 .contact-info {
-  background-color: var(--brun-fonce);
-  color: var(--jaune-clair);
+  background-color: var(--couleur-principale);
+  color: var(--brun-fonce);
   padding: 1rem;
   border-radius: 10px;
   text-align: left;
 }
 
 .contact-info h3 {
-  color: var(--couleur-principale);
+  color: var(--brun-fonce);
   margin-bottom: 1rem;
 }
 
 .contact-info p {
-  color: var(--couleur-principale);
+  color: var(--brun-fonce);
   margin-bottom: 1rem;
 }
 
@@ -717,14 +729,13 @@ align-items: center;
 }
 
 .contact-info a {
-  color: var(--couleur-principale);
-  background-color: var(--brun-fonce);
+  color: var(--brun-fonce);
   text-decoration: none;
   transition: color 0.3s;
 }
 
 .contact-info a:hover {
-  color: var(--couleur-secondaire);
+  color: var(--rose);
 }
 
 /* Responsive */
@@ -888,12 +899,12 @@ align-items: center;
 
 /* Pour l'image dans le logo */
 .logo img {
-  width: 2px;  /* largeur souhaitée */
+  width: 8px;  /* largeur souhaitée */
   height: auto;  /* conserve les proportions */
 }
 
 /* Pour l'autre image */
 img[src="assets/images/pdp.png"] {
-  width: 40px;  /* largeur souhaitée */
+  width: 60px;  /* largeur souhaitée */
   height: auto;  /* conserve les proportions */
 }
