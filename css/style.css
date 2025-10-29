@@ -888,12 +888,12 @@ align-items: center;
 
 /* Pour l'image dans le logo */
 .logo img {
-  width: 15px;  /* largeur souhaitée */
+  width: 2px;  /* largeur souhaitée */
   height: auto;  /* conserve les proportions */
 }
 
 /* Pour l'autre image */
 img[src="assets/images/pdp.png"] {
-  width: 20px;  /* largeur souhaitée */
+  width: 40px;  /* largeur souhaitée */
   height: auto;  /* conserve les proportions */
 }
