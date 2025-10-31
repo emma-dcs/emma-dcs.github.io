@@ -944,7 +944,7 @@ img[src="assets/images/pdp.png"] {
 @media (max-width: 768px) {
   /* HEADER */
   .header-container {
-    flex-direction: column;
+    flex-wrap: wrap;
     align-items: center;
     padding: 0.5rem 1rem;
   }
@@ -955,11 +955,11 @@ img[src="assets/images/pdp.png"] {
   }
 
   .nav-links {
-    flex-direction: column;
+    display: flex;
+    flex-wrap: wrap;   
+    justify-content: center;
     gap: 1rem;
-    width: 100%;
-    align-items: flex-start;
-  }
+ }
 
   .nav-links a {
     font-size: 1rem;
@@ -1231,5 +1231,91 @@ Responsive – Section Projets
   .about-skills,
   .about-cv {
     padding: 2rem 1rem;
+  }
+}
+
+@media (max-width: 1024px) {
+  .projet-navigation {
+    flex-direction: column;     /* les liens passent en colonne */
+    align-items: stretch;       /* chaque bouton prend toute la largeur dispo */
+    gap: 1.5rem;                /* espace vertical entre les 2 */
+  }
+
+  .projet-navigation a {
+    text-align: center;         
+    width: 100%;               
+  }
+}
+
+
+@media (max-width: 768px) {
+  .contact-info p {
+    display: flex;
+    flex-direction: column; /* les éléments à l’intérieur passent à la ligne */
+    align-items: flex-start;
+  }
+
+  .contact-info strong {
+    margin-right: 0;
+    margin-bottom: 0.3rem; /* petit espace entre le label et le lien */
+  }
+
+  .contact-info a {
+    word-break: break-all; /* coupe les longs liens s’ils débordent */
+  }
+}
+
+/* ======= Ajustements Services (tablette & mobile) ======= */
+@media (max-width: 768px) {
+  /* 1️⃣ Forcer le retour à la ligne après "Bénéfices :" */
+  .service-item p strong {
+    display: block; /* force le label à prendre toute la ligne */
+    margin-bottom: 14rem;
+  }
+
+  .service-item p {
+    text-align: left; /* lisibilité améliorée sur petit écran */
+    margin-left: 1rem;
+  }
+
+  /* 2️⃣ Aligner les listes plus à gauche */
+  .service-item ul {
+    margin-left: -7rem; /* au lieu de 2rem ou plus */
+    padding-left: 1rem; /* léger retrait mais plus compact */
+  }
+
+  .service-item li {
+    text-align: left;
+    margin-bottom: 0.4rem; /* un peu d’espace entre les points */
+  }
+
+  /* Optionnel : espacement entre les services */
+  .service-item {
+    margin-bottom: 2rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .service-item p {
+    display: block;
+    text-align: left;
+    margin: 0 0 1rem 0;
+  }
+
+  /* Force "Bénéfices :" à occuper toute la ligne */
+  .service-item p strong {
+    display: block;
+    margin-bottom: 0.3rem;
+  }
+
+  /* Supprime tout éventuel retrait du texte suivant */
+  .service-item p br + * {
+    margin-left: 0;
+    display: inline;
+  }
+
+  /* Si ton paragraphe est justifié ailleurs */
+  .service-item p {
+    text-align: left !important;
   }
 }
