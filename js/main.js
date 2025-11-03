@@ -17,3 +17,26 @@ if (menuBtn && nav) {
     });
   });
 }
+
+// --- Aller au rdv google depuis le bouton "Prendre rdv" ---
+const rdvBtn = document.querySelector('.btn-right-rdv');
+const calendar = document.querySelector('iframe');
+
+rdvBtn.addEventListener('click', e => {
+  e.preventDefault();
+  calendar.scrollIntoView({ behavior: 'smooth' });
+});
+
+
+// --- Apparition au scroll ---
+const sections = document.querySelectorAll('.service-item, .project-card');
+
+const observer = new IntersectionObserver(entries => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('visible');
+    }
+  });
+}, { threshold: 0.2 });
+
+sections.forEach(section => observer.observe(section));

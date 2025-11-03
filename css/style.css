@@ -221,7 +221,7 @@ header {
 
 /* Image à gauche */
 .hero-image img {
-  width: 33%;
+  width: 40%;
   max-width: 400px;
   height: auto;
   border-radius: 12px;
@@ -1018,7 +1018,7 @@ align-items: center;
 
 /* Pour l'image dans le logo */
 .logo img {
-  width: 80px;  
+  width: 90px;  
   height: auto;  
 }
 
@@ -1154,7 +1154,7 @@ Responsive – Section Projets
   }
 
   .project-card img {
-    max-width: 150px;
+    max-width: 80px;
     margin: 0 auto 1rem auto;
   }
 
@@ -1427,7 +1427,18 @@ Responsive – Section Projets
 
 @media (max-width: 768px) {
   .proposition h2 {
-    font-size: 1rem;
+    font-size: 1.25rem;
   }
 }
 
+
+/* --- Apparition au scroll ---
+.service-item, .project-card {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+.service-item.visible, .project-card.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
