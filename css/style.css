@@ -11,7 +11,7 @@
 ========================== */
 :root {
   --couleur-principale: #ffe548; 
-  --couleur-secondaire: #fcff6c; 
+  --couleur-secondaire: #FABC2A; 
   --brun-fonce: #502419;         
   --rose: #5a7a4f;             
   --blanc: #fdfcf8;        
@@ -639,7 +639,7 @@ align-items: center;
 }
 
 @media (max-width: 768px) {
-  .container {
+  .services-list .container {
     width: 95%;
     padding: 0 1rem;
   }
@@ -1442,12 +1442,12 @@ Responsive – Section Projets
 
 
 /* --- Apparition au scroll */
-.service-item, .project-card {
+.service-card, .project-card, .project-card-ac {
   opacity: 0;
   transform: translateY(20px);
   transition: opacity 0.6s ease, transform 0.6s ease;
 }
-.service-item.visible, .project-card.visible {
+.service-card.visible, .project-card.visible, .project-card-ac.visible {
   opacity: 1;
   transform: translateY(0);
 }
