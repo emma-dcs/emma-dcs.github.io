@@ -20,7 +20,7 @@ if (menuBtn && nav) {
 
 
 // --- Apparition au scroll ---
-const sections = document.querySelectorAll('.service-item, .project-card');
+const sections = document.querySelectorAll('.service-card, .project-card-ac, .project-card');
 
 const observer = new IntersectionObserver(entries => {
   entries.forEach(entry => {
