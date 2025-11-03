@@ -102,6 +102,37 @@ section {
 /* ==========================
    HEADER
 ========================== */
+
+.menu-btn {
+  display: none;
+  flex-direction: column;
+  cursor: pointer;
+  gap: 5px;
+}
+
+.menu-btn span {
+  width: 25px;
+  height: 3px;
+  background-color: #333;
+  border-radius: 2px;
+}
+
+
+@media screen and (max-width: 768px) {
+  .menu-btn {
+    display: flex;
+  }
+
+  nav {
+    display: none;
+  }
+
+  .menu-btn.active + nav {
+    display: block;
+  }
+}
+
+
 header {
   background-color: var(--blanc);
   border-bottom: 3px solid var(--couleur-principale);
@@ -143,22 +174,80 @@ header {
 /* ==========================
    SECTION HERO
 ========================== */
+
+.proposition {
+  background-color: var(--blanc); /* optionnel : garde le fond neutre */
+  text-align: center; /* aligne tout au centre */
+  padding: 4rem 2rem;
+}
+
+.proposition h2 {
+  font-size: 2.5rem; /* augmente la taille du titre */
+  color: var(--brun-fonce);
+  margin-bottom: 1.5rem;
+}
+
+.proposition p {
+  font-size: 1.2rem;
+  color: var(--brun-fonce);
+  max-width: 700px;
+  margin: 0 auto 2rem auto; /* centre le texte et ajoute de l’espace dessous */
+  line-height: 1.6;
+}
+
+.proposition .btn {
+  display: inline-block;
+  margin: 0 auto;
+  font-size: 1.1rem;
+  padding: 0.8rem 2rem;
+}
+
 .hero {
   background-color: var(--brun-fonce);
   color: var(--blanc);
   text-align: center;
-  padding: 6rem 2rem;
+  padding: 1rem 2rem;
 }
 
-.hero-content h2 {
-  font-size: 2.5rem;
-  margin-bottom: 1rem;
+.hero-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 3rem; /* espace entre texte et image */
+  padding: 3rem 0;
 }
 
-.hero-content p {
-  font-size: 1.2rem;
-  margin-bottom: 1rem;
-  color: var(--blanc);
+/* Image à gauche */
+.hero-image img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+}
+
+/* Texte à droite */
+.hero-text p {
+  flex: 1;
+  text-align: justify;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+/* --- Responsive tablette et mobile --- */
+@media screen and (max-width: 900px) {
+  .hero-content {
+    flex-direction: column; /* empile image et texte */
+    text-align: center;
+  }
+
+  .hero-image img {
+    max-width: 300px;
+  }
+
+  .hero-text {
+    text-align: justify;
+  }
 }
 
 /* ==========================
@@ -214,7 +303,7 @@ header {
 }
 
 .service-card:hover,
-.project-card:hover {
+.project-card-ac:hover {
   transform: translateY(-5px);
   box-shadow: 0 6px 15px rgba(0, 0, 0, 0.25);
 }
@@ -531,6 +620,12 @@ align-items: center;
 
 .service-item:hover:nth-child(7) {
   transform: translateY(-375px);
+}
+
+.service-item p {
+  display: block;      
+  text-align: left;    
+  margin: 0 0 1rem 0;
 }
 
 
@@ -925,7 +1020,7 @@ align-items: center;
 
 /* Pour l'image dans le logo */
 .logo img {
-  width: 70px;  
+  width: 80px;  
   height: auto;  
 }
 
@@ -1319,3 +1414,22 @@ Responsive – Section Projets
     text-align: left !important;
   }
 }
+
+@media (min-width: 1025px) and (max-width: 1600px) {
+  .service-item ul {
+    margin-left: -7rem; 
+    padding-left: 1rem; 
+  }
+
+  .service-item li {
+    text-align: left;
+    margin-bottom: 0.4rem; 
+  }
+}
+
+@media (max-width: 768px) {
+  .proposition h2 {
+    font-size: 2rem;
+  }
+}
+
