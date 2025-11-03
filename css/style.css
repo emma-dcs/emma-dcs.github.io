@@ -197,10 +197,11 @@ header {
 
 .proposition .btn {
   display: inline-block;
-  margin: 0 auto;
   font-size: 1.1rem;
   padding: 0.8rem 2rem;
+  /* plus besoin de margin auto ici */
 }
+
 
 .hero {
   background-color: var(--brun-fonce);
@@ -219,7 +220,7 @@ header {
 
 /* Image à gauche */
 .hero-image img {
-  width: 100%;
+  width: 33%;
   max-width: 400px;
   height: auto;
   border-radius: 12px;
@@ -239,10 +240,6 @@ header {
   .hero-content {
     flex-direction: column; /* empile image et texte */
     text-align: center;
-  }
-
-  .hero-image img {
-    max-width: 300px;
   }
 
   .hero-text {
