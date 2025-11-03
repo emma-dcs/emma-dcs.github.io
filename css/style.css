@@ -2,7 +2,6 @@
    Reset / Normalize de base
 ========================== */
 * {
-  margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
@@ -214,17 +213,17 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 3rem; /* espace entre texte et image */
+  gap: 0rem; /* espace entre texte et image */
   padding: 3rem 0;
   flex-direction: row-reverse;
 }
 
 /* Image à gauche */
 .hero-image img {
-  width: 40%;
-  max-width: 400px;
+  width: 100%;
+  max-width: 1000px;
   height: auto;
-  border-radius: 12px;
+  border-radius: 0px;
   box-shadow: none;
 }
 
@@ -241,12 +240,15 @@ header {
   .hero-content {
     flex-direction: column; /* empile image et texte */
     text-align: center;
+    padding: 1rem 0 1rem;
   }
 
   .hero-text {
     text-align: justify;
   }
 }
+
+
 
 /* ==========================
    SECTIONS SERVICES / PROJETS
@@ -633,6 +635,13 @@ align-items: center;
   }
   .service-item {
     transform: none; /* pas de décalage sur petit écran */
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    width: 95%;
+    padding: 0 1rem;
   }
 }
 
@@ -1432,7 +1441,7 @@ Responsive – Section Projets
 }
 
 
-/* --- Apparition au scroll ---
+/* --- Apparition au scroll */
 .service-item, .project-card {
   opacity: 0;
   transform: translateY(20px);
