@@ -649,6 +649,14 @@ align-items: center;
 /* ==========================
    PAGE PROJETS
 ========================== */
+.projet5-image img {
+  width: 100%;        /* L’image prend toute la largeur disponible */
+  height: auto;       /* La hauteur s’ajuste automatiquement */
+  display: block;     /* Évite les petits espaces sous l’image */
+  max-width: 1200px;  /* (Optionnel) limite la taille max sur grand écran */
+  margin: 0 auto;     /* Centre l’image si elle a un max-width */
+}
+
 .projects-main {
   background-color: var(--jaune-clair);
   text-align: center;

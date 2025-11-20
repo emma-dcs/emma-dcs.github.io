@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Projet 5 – Analyse nationale des rappels alimentaires</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Merriweather:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" type="image/png" href="assets/images/favicon.png">
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header>
+    <div class="container header-container">
+      <span href="index.html" class="logo"><img src="assets/images/favicon.png" alt="Photo"></span>
+
+      <div class="menu-btn">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+
+      <nav>
+        <ul class="nav-links">
+          <li><a href="index.html">Accueil</a></li>
+          <li><a href="about.html">À propos</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="projets.html" class="active">Projets</a></li>
+        </ul>
+      </nav>
+
+      <a href="contact.html" class="btn">Me contacter</a>
+    </div>
+  </header>
+
+  <!-- SECTION PROJET DETAIL -->
+  <section class="project-detail">
+    <div class="container textecentre">
+      <h2>🚀 Projet 5. Analyse nationale des rappels alimentaires</h2>
+
+      <hr>
+
+      <h3>🔎 Contexte</h3>
+      <div style="text-align: justify;">
+        Les rappels de produits alimentaires représentent un coût important pour les entreprises : perte de matières, dégradation de l’image, baisse de confiance clients, risques juridiques.<br>
+        Pourtant, peu de PME exploitent réellement les données publiques de Rappel.Conso.Gouv, faute d’outils simples pour analyser ces informations et en tirer des tendances utiles pour la maîtrise des risques.<br><br>
+
+        J’ai donc entrepris de créer un dashboard Power BI complet, conçu pour aider les entreprises agroalimentaires à mieux comprendre les risques associés à leurs catégories de produits.  
+      </div><br>
+
+      <h3>🎯 Défi</h3>
+      <div style="text-align: center; font-weight:500;">
+       Les données de RappelConso sont riches… mais brutes, hétérogènes, parfois dupliquées, difficiles à explorer et peu opérationnelles pour un responsable qualité.<br><br>
+       Le défi était donc de transformer cette base volumineuse en un outil visuel, fiable et actionnable, capable de répondre à ces questions clés :<br>
+       - Quels produits sont les plus souvent rappelés ?
+       - Quels risques reviennent le plus souvent (microbio, allergènes, corps étrangers…) ?
+       - Quelles tendances se dessinent dans le temps ?
+       - Comment ma catégorie se situe par rapport au reste du marché ?
+      </div><br>
+
+      <h3>⚙️ Actions menées</h3>
+      <div style="text-align: justify;">
+        Préparation et nettoyage des données :
+        - Import complet de la base RappelConso
+        - Nettoyage avancé : doublons basés sur l’ID, texte normalisé, dates corrigées
+        - Structuration des catégories, sous-catégories et motifs de rappel
+        - Mise en place d’un modèle de données robuste (relations, tables de dates…)<br><br>
+        
+        Modélisation et mesures DAX :
+        - Création de mesures pour compter les rappels uniques
+        - Calculs de pourcentages cohérents entre visuels
+        - Titres dynamiques selon le niveau de hiérarchie sélectionné<br><br>
+        
+        Construction du tableau de bord :
+        - “Vue générale” : hiérarchie Catégorie / Sous-catégorie et volumes de rappels
+        - “Motifs de rappel” : camembert + analyse des risques
+        - “Évolution temporelle” : tendance des rappels par motif dans le temps
+        - UX adaptée pour une lecture rapide (labels, filtres, interactions)
+      </div><br>
+
+      <h3>✅ Résultats obtenus</h3>
+      <div style="text-align: justify;">
+        - Un tableau de bord interactif donnant une vision immédiate des produits les plus concernés<br><br>
+        - Une analyse claire des risques dominants (ex. allergènes, bactéries, étiquetage…)<br><br>
+        - Une identification facile des périodes sensibles au niveau national<br><br>
+        - Une compréhension fine de la répartition des risques par sous-catégorie<br><br>
+        - Un outil réutilisable pour la surveillance, les audits ou la préparation des plans HACCP<br><br>
+
+        <div class="projet5-image">
+		      <img src="assets/images/projet5BI.png" alt="BI_projet5" />
+		    </div>
+      </div><br>
+
+      <h3>💡 Valeur ajoutée business</h3>
+      <div style="text-align: justify;">
+        Ce tableau de bord permet à toute PME de :
+        - Anticiper les risques les plus fréquents pour son secteur<br><br>
+        - Prioriser les plans de contrôle qualité en fonction des tendances nationales<br><br>
+        - Se comparer au marché pour évaluer sa performance en sécurité alimentaire<br><br>
+        - S’appuyer sur des données objectives lors des audits ou discussions avec les autorités<br><br>
+        
+        - Renforcer la prévention des rappels, et donc réduire :
+            - les pertes financières,
+            - les litiges,
+            - l’impact réputationnel.<br><br>
+        
+            
+        En un mot : rendre les données publiques réellement opérationnelles pour la qualité !
+      </div><br>
+
+      <div class="center-block">
+        <a href="contact.html" class="btn-github" data-objet="Projet 5">
+          📩 Vous souhaitez ce type de rapport interactif dans votre entreprise ?
+        </a>
+      </div><br>
+
+      <div class="projet-navigation">
+        <a href="projet4.html" class="prev-projet">⬅ Voir le projet 4 : Automatisation du reporting</a>
+        <a href="projet6.html" class="next-projet">Voir le projet 6 : Évaluation des risques fournisseurs et matières premières ➡</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="container">
+      <pa>© 2025 DAgroCoStat — Tous droits réservés</pa><br><br>
+      <pa><a href="contact.html">Me contacter</a> | <a href="mentions.html">Mentions légales</a></pa>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
