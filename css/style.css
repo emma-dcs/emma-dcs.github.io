@@ -649,13 +649,38 @@ align-items: center;
 /* ==========================
    PAGE PROJETS
 ========================== */
-.projet5-image img {
-  width: 100%;        /* L’image prend toute la largeur disponible */
-  height: auto;       /* La hauteur s’ajuste automatiquement */
-  display: block;     /* Évite les petits espaces sous l’image */
-  max-width: 1200px;  /* (Optionnel) limite la taille max sur grand écran */
-  margin: 0 auto;     /* Centre l’image si elle a un max-width */
+.projet5-image {
+  text-align: center;   /* centre l'image si elle est plus petite que l'écran */
 }
+
+.projet5-image img {
+  height: auto;        /* la hauteur s'ajuste automatiquement */
+  display: block;
+  margin: 0 auto;      /* centre l'image */
+}
+
+/* 🔵 Ordinateur */
+@media (min-width: 1025px) {
+  .projet5-image img {
+    width: 1200px;    /* largeur forcée PC (modifiable) */
+  }
+}
+
+/* 🟢 Tablette */
+@media (min-width: 769px) and (max-width: 1024px) {
+  .projet5-image img {
+    width: 800px;     /* largeur forcée tablette */
+  }
+}
+
+/* 🟡 Mobile */
+@media (max-width: 768px) {
+  .projet5-image img {
+    width: 100%;      /* sur mobile : prend la largeur de l’écran */
+    max-width: 500px; /* optionnel : évite une image trop grande */
+  }
+}
+
 
 .projects-main {
   background-color: var(--jaune-clair);
