@@ -662,7 +662,7 @@ align-items: center;
 /* 🔵 Ordinateur */
 @media (min-width: 1025px) {
   .projet5-image img {
-    width: 1200px;    /* largeur forcée PC (modifiable) */
+    width: 1000px;    /* largeur forcée PC (modifiable) */
   }
 }
 
